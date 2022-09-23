@@ -9,10 +9,10 @@
 Cryptids Across the Country
 
 :: Start
-<p>After years of listening to legends and myths of 
-creatures scattered across the country, you decide 
-to take a trip. You have collected a list of cryptids
-to find. Click a location to begin your journey. </p>
+<p>After years of listening to legends and myths of creatures scattered across the country, you decide 
+to take a trip. You have collected a list of cryptids to find and learn about. As you travel, you document your
+findings in a journal.</p> 
+<p>Click a location to begin your journey. </p>
  <ul>
   <li>[[Washington]]</li>
   <li>[[California]]</li>
@@ -62,7 +62,16 @@ to find. Click a location to begin your journey. </p>
 <h1>Jackalope</h1>
 
 :: Texas
-<h1>Chupacabra</h1>
+<h1>Texas - Chupacabra</h1>
+ <p>Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
+of Texas, where you have made your next stop. While visiting the nearby farmers, you find someone 
+who tells you their story.</p>
+ <p>Farmer: “These reptile-like creatures with fangs and claws are known to feast on livestock, 
+mainly goats, by draining their blood.”
+  <br>You: “Like a vampire?” 
+  <br>Farmer: “Correct. They were originally called el vampiro de Moca, or the vampire of Moca, after 
+the small town they were originally found in. They were then called chupacabras which translates to
+ ‘goat-sucker’.”</p>
 
 :: Nebraska
 <h1>Alkali Lake Monster</h1>
@@ -111,3 +120,6 @@ to find. Click a location to begin your journey. </p>
 
 :: Maine
 <h1>Specter Moose</h1>
+
+:: Journal
+
