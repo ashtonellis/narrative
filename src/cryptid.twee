@@ -43,6 +43,13 @@ findings in a journal.</p>
 :: Washington
 <h1>Washington - Batsquatch</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[California]]</td>
+  <td>[[Nevada]]</td>
+  <td>[[Montana]]</td>
+ </table>
+
 :: California
 <h1>California - Dark Watchers</h1>
  <p>Your next stop is the Santa Lucia Mountains in Central California, the home of the Dark Watchers. 
@@ -68,14 +75,40 @@ findings in a journal.</p>
 :: Nevada
 <h1>Nevada - Tahoe Tessie</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Washington]]</td>
+  <td>[[California]]</td>
+  <td>[[Colorado]]</td>
+ </table>
+
 :: Montana
 <h1>Montanta - Shanka Warakin</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Washington]]</td>
+  <td>[[Wyoming]]</td>
+ </table>
 
 :: New Mexico
 <h1>New Mexico - Skin Walker</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[California]]</td>
+  <td>[[Colorado]]</td>
+  <td>[[Texas]]</td>
+ </table>
+
 :: Colorado
 <h1>Colorado - Slide Rock Bolter</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Nevada]]</td>
+  <td>[[New Mexico]]</td>
+  <td>[[Wyoming]]</td>
 
 :: Wyoming
 <h1>Wyoming - Jackalope</h1>
@@ -91,6 +124,13 @@ findings in a journal.</p>
   <br>Roy: “It is quite a good idea, these little creatures are known to mimic human phrases hiding at 
   the edges of where campers have built their fires.”</p>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Montana]]</td>
+  <td>[[Colorado]]</td>
+  <td>[[Nebraska]]</td>
+ </table>
+
 :: Texas
 <h1>Texas - Chupacabra</h1>
  <p>Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
@@ -103,53 +143,167 @@ mainly goats, by draining their blood.”
 the small town they were originally found in. They were then called chupacabras which translates to
  ‘goat-sucker’.”</p>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[New Mexico]]</td>
+  <td>[[Oklahoma]]</td>
+  <td>[[Louisiana]]</td>
+ </table>
+
 :: Nebraska
 <h1>Nebraska - Alkali Lake Monster</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Wyoming]]</td>
+  <td>[[Minnesota]]</td>
+  <td>[[Oklahoma]]</td>
+ </table>
 
 :: Oklahoma
 <h1>Oklahoma - Oklahoma Octopus</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Texas]]</td>
+  <td>[[Nebraska]]</td>
+  <td>[[Missouri]]</td>
+ </table>
+
 :: Minnesota
 <h1>Minnesota - Wendigo</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Nebraska]]</td>
+  <td>[[Missouri]]</td>
+  <td>[[Illinois]]</td>
+ </table>
 
 :: Missouri
 <h1>Missouri - Momo</h1>
 
+<h2>Where to Next>
+ <table>
+  <td>[[Oklahoma]]</td>
+  <td>[[Minnesota]]</td>
+  <td>[[Illinois]]</td>
+ </table>
+
 :: Illinois
 <h1>Illinois - Enfield Horror</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Minnesota]]</td>
+  <td>[[Missouri]]</td>
+  <td>[[Indiana]]</td>
+ </table>
 
 :: Indiana
 <h1>Indiana - Beast of Busco</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Illinois]]</td>
+  <td>[[West Virginia]]</td>
+ </table>
+
 :: West Virginia
 <h1>West Virginia - Mothman</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Indiana]]</td>
+  <td>[[North Carolina]]</td>
+  <td>[[Pennsylvania]]</td>
+ </table>
 
 :: North Carolina
 <h1>North Carolina - Beast of Bladenboro</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[West Virginia]]</td>
+  <td>[[Alabama]]</td>
+  <td>[[Florida]]</td>
+ </table>
+
 :: Pennsylvania
 <h1>Pennsylvania - Albatwitch</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[West Virginia]]</td>
+  <td>[[New Jersey]]</td>
+  <td>[[Conneticut]]</td>
+ </table>
 
 :: Alabama
 <h1>Alabama - White Thang</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[North Carolina]]</td>
+  <td>[[Louisiana]]</td>
+  <td>[[Flordia]]</td>
+ </table>
+
 :: Florida
 <h1>Florida - Skunk Ape</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[North Carolina]]</td>
+  <td>[[Alabama]]</td>
+  <td>[[Louisiana]]</td>
+ </table>
 
 :: New Jersey
 <h1>New Jersey - Jersey Devil</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Pennsylvania]]</td>
+  <td>[[Conneticut]]</td>
+ </table>
+
 :: Conneticut
 <h1>Conneticut - Glawackus</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Pennsylvania]]</td>
+  <td>[[New Jersey]]</td>
+  <td>[[Massachussetts]]</td>
+ </table>
 
 :: Louisiana
 <h1>Couisiana - Rougarou</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Texas]]</td>
+  <td>[[Alabama]]</td>
+  <td>[[Florida]]</td>
+ </table>
+
 :: Massachussetts
 <h1>Massachussetts - Dover Demon</h1>
 
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Conneticut]]</td>
+  <td>[[Maine]]</td>
+ </table>
+
 :: Maine
 <h1>Maine - Specter Moose</h1>
+
+<h2>Where to Next</h2>
+ <table>
+  <td>[[Massachussetts]]</td>
+ </table>
 
 :: Journal
 
