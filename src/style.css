@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(195, 0, 0);
+    color: black;
+}
+
+.dia {
+    color: rgb(33, 33, 33);
+}
+
+a {
+    color:rgb(33, 33, 33)
+}
+
+a:hover  {
+    color:rgb(33, 33, 33)
+}

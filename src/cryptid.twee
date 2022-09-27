@@ -9,387 +9,340 @@
 Cryptids Across the Country
 
 :: Start
-<p>After years of listening to legends and myths of creatures scattered across the country, you decide 
-to take a trip. You have collected a list of cryptids to find and learn about. As you travel, you document your
-findings in a journal.</p> 
-<p>Click a location to begin your journey. </p>
- <ul>
-  <li>[[Washington]]</li>
-  <li>[[California]]</li>
-  <li>[[Nevada]]</li>
-  <li>[[Montana]]</li>
-  <li>[[New Mexico]]</li>
-  <li>[[Colorado]]</li>
-  <li>[[Wyoming]]</li>
-  <li>[[Texas]]</li>
-  <li>[[Nebraska]]</li>
-  <li>[[Oklahoma]]</li>
-  <li>[[Minnesota]]</li>
-  <li>[[Missouri]]</li>
-  <li>[[Illinois]]</li>
-  <li>[[Indiana]]</li>
-  <li>[[West Virginia]]</li>
-  <li>[[North Carolina]]</li>
-  <li>[[Pennsylvania]]</li>
-  <li>[[Alabama]]</li>
-  <li>[[Florida]]</li>
-  <li>[[New Jersey]]</li>
-  <li>[[Conneticut]]</li>
-  <li>[[Louisiana]]</li>
-  <li>[[Massachussetts]]</li>
-  <li>[[Maine]]</li>
- </ul>
+!Cryptids Across the Country
+After years of listening to legends and myths of creatures scattered across the country, you decide 
+\to take a trip. You have collected a list of cryptids to find and learn about. As you travel, you document 
+\your findings in a journal.
+Click a location to begin your journey.
+<img src="map-outlines.png" usemap="#map">
+<map name="map">
+ <!-- not working -->
+ <area shape="circle" coords="80,80,10,10" data-passage="Washington">
+ <!-- working -->
+ <area shape="circle" coords="30,280,10,10" data-passage="California">
+ <area shape="circle" coords="75,230,10,10" data-passage="Nevada">
+ <area shape="circle" coords="195,125,10,10" data-passage="Montana">
+ <area shape="circle" coords="285,205,10,10" data-passage="Wyoming">
+ <area shape="circle" coords="260,265,10,10" data-passage="Colorado">
+ <area shape="circle" coords="230,345,10,10" data-passage="New Mexico">
+ <area shape="circle" coords="390,470,10,10" data-passage="Texas">
+ <area shape="circle" coords="410,330,10,10" data-passage="Oklahoma">
+ <area shape="circle" coords="365,210,10,10" data-passage="Nebraska">
+ <area shape="circle" coords="465,105,10,10" data-passage="Minnesota">
+ <area shape="circle" coords="485,275,10,10" data-passage="Missouri">
+ <area shape="circle" coords="490,440,10,10" data-passage="Louisiana">
+ <area shape="circle" coords="585,355,10,10" data-passage="Alabama">
+ <area shape="circle" coords="540,275,10,10" data-passage="Illinois">
+ <area shape="circle" coords="575,225,10,10" data-passage="Indiana">
+ <area shape="circle" coords="695,505,10,10" data-passage="Florida">
+ <area shape="circle" coords="705,325,10,10" data-passage="North Carolina">
+ <area shape="circle" coords="640,265,10,10" data-passage="West Virginia">
+ <area shape="circle" coords="710,215,10,10" data-passage="Pennsylvania">
+ <area shape="circle" coords="740,205,10,10" data-passage="New Jersey">
+ <area shape="circle" coords="760,180,10,10" data-passage="Conneticut">
+ <area shape="circle" coords="775,165,10,10" data-passage="Massachussetts">
+ <area shape="circle" coords=" 785,75,10,10" data-passage="Maine">
+</map>
+  [[Washington]]
+  [[California]]
+  [[Nevada]]
+  [[Montana]]
+  [[New Mexico]]
+  [[Colorado]]
+  [[Wyoming]]
+  [[Texas]]
+  [[Nebraska]]
+  [[Oklahoma]]
+  [[Minnesota]]
+  [[Missouri]]
+  [[Illinois]]
+  [[Indiana]]
+  [[West Virginia]]
+  [[North Carolina]]
+  [[Pennsylvania]]
+  [[Alabama]]
+  [[Florida]]
+  [[New Jersey]]
+  [[Conneticut]]
+  [[Louisiana]]
+  [[Massachussetts]]
+  [[Maine]]
+ 
 
 :: Washington
-<h1>Washington - Batsquatch</h1>
+!Washington - Batsquatch
 
-<h2>Collect Journal Entry</h2>
- Add Batsquatch [[journal]] entry.
+!!Collect Journal Entry
+ Add //Batsquatch// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[California]]</td>
-  <td>[[Nevada]]</td>
-  <td>[[Montana]]</td>
- </table>
+!!Where to Next
+[[California]] [[Nevada]] [[Montana]]
 
 :: California
-<h1>California - Dark Watchers</h1>
- <p>Your next stop is the Santa Lucia Mountains in Central California, the home of the Dark Watchers. 
- You stumble along some campers, and a hiker informs you about these creatures.</p>
- <p>Hiker: “Although they have so far been harmless, these featureless silhouettes stand motionless, 
- as though they are observing you, making note of every detail.”
-  <br>You: “Is that why they are called Dark Watchers? Just shadows that stand there and watch?”
-  <br>Hiker: “Yes. Some have tried to approach them, but as soon as you get near, they disappear as though 
-  they are not meant for you to interact with.”
-  <br>You: “Shadow figures that will always remain a mystery.”
-  <br>Hiker: “That seems to be true. It is purported that they will ignore don’t bother those who 
-  mind their own business, although if someone where to finally meet one, who knows if they would 
-  live to tell the tale.”</p>
+!California - Dark Watchers
 
-<h2>Collect Journal Entry</h2>
- Add Dark Watchers [[journal]] entry.
+Your next stop is the Santa Lucia Mountains in Central California, the home of the Dark Watchers. You stumble 
+ \along some campers, and a hiker informs you about these creatures.
+ 
+ @@.dia;
+ __Hiker__: “Although they have so far been harmless, these featureless silhouettes stand motionless, as though 
+ \they are observing you, making note of every detail.”
+ __You__: “Is that why they are called Dark Watchers? Just shadows that stand there and watch?”
+ __Hiker__: “Yes. Some have tried to approach them, but as soon as you get near, they disappear as though they 
+ \are not meant for you to interact with.”
+ __You__: “Shadow figures that will always remain a mystery.”
+ __Hiker__: “That seems to be true. It is purported that they will ignore don’t bother those who mind their own 
+ \business, although if someone where to finally meet one, who knows if they would live to tell the tale.""
+ @@
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Washington]]</td>
-  <td>[[Nevada]]</td>
-  <td>[[New Mexico]]</td>
- </table>
+!!Collect Journal Entry
+ Add //Dark Watchers// [[journal]] entry.
+
+!!Where to Next
+[[Washington]] [[Nevada]] [[New Mexico]]
 
 
 :: Nevada
-<h1>Nevada - Tahoe Tessie</h1>
+!Nevada - Tahoe Tessie
 
-<h2>Collect Journal Entry</h2>
- Add Tahoe Tessie [[journal]] entry.
+!!Collect Journal Entry
+ Add //Tahoe Tessie// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Washington]]</td>
-  <td>[[California]]</td>
-  <td>[[Colorado]]</td>
- </table>
+!!Where to Next
+[[Washington]] [[California]] [[Colorado]]
 
 :: Montana
-<h1>Montanta - Shunka Warakin</h1>
+!Montanta - Shunka Warakin
 
-<h2>Collect Journal Entry</h2>
- Add Shunka Warakin [[journal]] entry.
+!!Collect Journal Entry
+ Add //Shunka Warakin// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Washington]]</td>
-  <td>[[Wyoming]]</td>
- </table>
+!!Where to Next
+[[Washington]] [[Wyoming]]
 
 :: New Mexico
-<h1>New Mexico - Skin Walker</h1>
+!New Mexico - Skin Walker
 
-<h2>Collect Journal Entry</h2>
- Add Skin Walker [[journal]] entry.
+!!Collect Journal Entry
+ Add //Skin Walker// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[California]]</td>
-  <td>[[Colorado]]</td>
-  <td>[[Texas]]</td>
- </table>
+!!Where to Next
+ [[California]] [[Colorado]] [[Texas]]
 
 :: Colorado
-<h1>Colorado - Slide Rock Bolter</h1>
+!Colorado - Slide Rock Bolter
 
-<h2>Collect Journal Entry</h2>
- Add Slide Rock Bolter [[journal]] entry.
+!!Collect Journal Entry
+ Add //Slide Rock Bolter// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Nevada]]</td>
-  <td>[[New Mexico]]</td>
-  <td>[[Wyoming]]</td>
- </table>
+!!Where to Next
+[[Nevada]] [[New Mexico]] [[Wyoming]]
 
 :: Wyoming
-<h1>Wyoming - Jackalope</h1>
- <p>Getting tired from your travels, you decide to stop at the La Bonte Hotel in Douglas, Wyoming. 
- This is where you meet Roy Ball, the man who hunted and displayed the first Jackalope. He tells 
- the story of this cute, but surprisingly dangerous creature.</p>
- <p>Roy: “I see you are eyeing my Jackalope head I mounted. This was no easy feat. This jackrabbit 
- with the horns of an antelope, despite looking like a cuddly rabbit, is actually quite powerful.”
-  <br>You: “How can something so small and cute be that dangerous?”
-  <br>Roy: “This animal, instead of fleeing as most rabbits would, usually chose to face its attackers 
-  head on. The antlers are quite sharp and would leave its prey bloody and full of gouges.”
-  <br>You: “Is that why people keep telling me to wear stove pipes over my legs if I go hunting?”
-  <br>Roy: “It is quite a good idea, these little creatures are known to mimic human phrases hiding at 
-  the edges of where campers have built their fires.”</p>
+!Wyoming - Jackalope
+ Getting tired from your travels, you decide to stop at the La Bonte Hotel in Douglas, Wyoming. This is where 
+ \you meet Roy Ball, the man who hunted and displayed the first Jackalope. He tells the story of this cute, but 
+ \surprisingly dangerous creature.
+ 
+ @@.dia;
+ __Roy__: “I see you are eyeing my Jackalope head I mounted. This was no easy feat. This jackrabbit with the 
+ \horns of an antelope, despite looking like a cuddly rabbit, is actually quite powerful.”
+ __You__: “How can something so small and cute be that dangerous?”
+ __Roy__: “This animal, instead of fleeing as most rabbits would, usually chose to face its attackers head on. 
+ \The antlers are quite sharp and would leave its prey bloody and full of gouges.”
+ __You__: “Is that why people keep telling me to wear stove pipes over my legs if I go hunting?”
+ __Roy__: “It is quite a good idea, these little creatures are known to mimic human phrases hiding at the edges 
+ \of where campers have built their fires.”
+ @@
 
-<h2>Collect Journal Entry</h2>
- Add Jackalope [[journal]] entry.
+!!Collect Journal Entry
+ Add //Jackalope// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Montana]]</td>
-  <td>[[Colorado]]</td>
-  <td>[[Nebraska]]</td>
- </table>
+!!Where to Next
+ [[Montana]] [[Colorado]] [[Nebraska]]
 
 :: Texas
-<h1>Texas - Chupacabra</h1>
- <p>Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
-of Texas, where you have made your next stop. While visiting the nearby farmers, you find someone 
-who tells you their story.</p>
- <p>Farmer: “These reptile-like creatures with fangs and claws are known to feast on livestock, 
-mainly goats, by draining their blood.”
-  <br>You: “Like a vampire?” 
-  <br>Farmer: “Correct. They were originally called el vampiro de Moca, or the vampire of Moca, after 
-the small town they were originally found in. They were then called chupacabras which translates to
- ‘goat-sucker’.”</p>
+!Texas - Chupacabra
+ Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
+\of Texas, where you have made your next stop. While visiting the nearby farmers, you find someone 
+\who tells you their story.
+ 
+ @@.dia;
+ __Farmer__: “These reptile-like creatures with fangs and claws are known to feast on livestock, 
+\mainly goats, by draining their blood.”
+ __You__: “Like a vampire?” 
+ __Farmer__: “Correct. They were originally called el vampiro de Moca, or the vampire of Moca, after 
+\the small town they were originally found in. They were then called chupacabras which translates to
+\‘goat-sucker’.”
 
-<h2>Collect Journal Entry</h2>
- Add Chupacabra [[journal]] entry.
+!!Collect Journal Entry
+ Add //Chupacabra// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[New Mexico]]</td>
-  <td>[[Oklahoma]]</td>
-  <td>[[Louisiana]]</td>
- </table>
+!!Where to Next
+ [[New Mexico]] [[Oklahoma]] [[Louisiana]]
 
 :: Nebraska
-<h1>Nebraska - Alkali Lake Monster</h1>
+!Nebraska - Alkali Lake Monster
 
-<h2>Collect Journal Entry</h2>
- Add Alkali Lake Monster [[journal]] entry.
+!!Collect Journal Entry
+ Add //Alkali Lake Monster// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Wyoming]]</td>
-  <td>[[Minnesota]]</td>
-  <td>[[Oklahoma]]</td>
- </table>
+!!Where to Next
+ [[Wyoming]] [[Minnesota]] [[Oklahoma]]
 
 :: Oklahoma
-<h1>Oklahoma - Oklahoma Octopus</h1>
+!Oklahoma - Oklahoma Octopus
 
-<h2>Collect Journal Entry</h2>
- Add Oklahoma Octopus [[journal]] entry.
+!!Collect Journal Entry
+ Add //Oklahoma Octopus// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Texas]]</td>
-  <td>[[Nebraska]]</td>
-  <td>[[Missouri]]</td>
- </table>
+!!Where to Next
+ [[Texas]] [[Nebraska]] [[Missouri]]
 
 :: Minnesota
-<h1>Minnesota - Wendigo</h1>
+!Minnesota - Wendigo
 
-<h2>Collect Journal Entry</h2>
- Add Wendigo [[journal]] entry.
+!!Collect Journal Entry
+ Add //Wendigo// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Nebraska]]</td>
-  <td>[[Missouri]]</td>
-  <td>[[Illinois]]</td>
- </table>
+!!Where to Next
+ [[Nebraska]] [[Missouri]] [[Illinois]]
 
 :: Missouri
-<h1>Missouri - Momo</h1>
+!Missouri - Momo
 
-<h2>Collect Journal Entry</h2>
- Add Momo [[journal]] entry.
+!!Collect Journal Entry
+ Add //Momo// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Oklahoma]]</td>
-  <td>[[Minnesota]]</td>
-  <td>[[Illinois]]</td>
- </table>
+!!Where to Next
+ [[Oklahoma]] [[Minnesota]] [[Illinois]]
 
 :: Illinois
-<h1>Illinois - Enfield Horror</h1>
+!Illinois - Enfield Horror
 
-<h2>Collect Journal Entry</h2>
- Add Enfield Horror [[journal]] entry.
+!!Collect Journal Entry
+ Add //Enfield Horror// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Minnesota]]</td>
-  <td>[[Missouri]]</td>
-  <td>[[Indiana]]</td>
- </table>
+!!Where to Next
+ [[Minnesota]] [[Missouri]] [[Indiana]]
 
 :: Indiana
-<h1>Indiana - Beast of Busco</h1>
+!Indiana - Beast of Busco
 
-<h2>Collect Journal Entry</h2>
- Add Beast of Busco [[journal]] entry.
+!!Collect Journal Entry
+ Add //Beast of Busco// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Illinois]]</td>
-  <td>[[West Virginia]]</td>
- </table>
+!!Where to Next
+ [[Illinois]] [[West Virginia]]
 
 :: West Virginia
-<h1>West Virginia - Mothman</h1>
+!West Virginia - Mothman
 
-<h2>Collect Journal Entry</h2>
- Add Mothman [[journal]] entry.
+!!Collect Journal Entry
+ Add //Mothman// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Indiana]]</td>
-  <td>[[North Carolina]]</td>
-  <td>[[Pennsylvania]]</td>
- </table>
+!!Where to Next
+ [[Indiana]] [[North Carolina]] [[Pennsylvania]]
 
 :: North Carolina
-<h1>North Carolina - Beast of Bladenboro</h1>
+!North Carolina - Beast of Bladenboro
 
-<h2>Collect Journal Entry</h2>
- Add Beast of Bladenboro [[journal]] entry.
+!!Collect Journal Entry
+ Add //Beast of Bladenboro// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[West Virginia]]</td>
-  <td>[[Alabama]]</td>
-  <td>[[Florida]]</td>
- </table>
+!!Where to Next
+ [[West Virginia]] [[Alabama]] [[Florida]]
 
 :: Pennsylvania
-<h1>Pennsylvania - Albatwitch</h1>
+!Pennsylvania - Albatwitch
 
-<h2>Collect Journal Entry</h2>
- Add Albatwitch [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[West Virginia]]</td>
-  <td>[[New Jersey]]</td>
-  <td>[[Conneticut]]</td>
- </table>
+!!Collect Journal Entry
+ Add //Albatwitch// [[journal]] entry.
+
+!!Where to Next
+ [[West Virginia]] [[New Jersey]] [[Conneticut]]
 
 :: Alabama
-<h1>Alabama - White Thang</h1>
+!Alabama - White Thang
 
-<h2>Collect Journal Entry</h2>
- Add White Thang [[journal]] entry.
+!!Collect Journal Entry
+ Add //White Thang// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[North Carolina]]</td>
-  <td>[[Louisiana]]</td>
-  <td>[[Florida]]</td>
- </table>
+!!Where to Next
+ [[North Carolina]] [[Louisiana]] [[Florida]]
 
 :: Florida
-<h1>Florida - Skunk Ape</h1>
+!Florida - Skunk Ape
 
-<h2>Collect Journal Entry</h2>
- Add Skunk Ape [[journal]] entry.
+!!Collect Journal Entry
+ Add //Skunk Ape// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[North Carolina]]</td>
-  <td>[[Alabama]]</td>
-  <td>[[Louisiana]]</td>
- </table>
+!!Where to Next
+ [[North Carolina]] [[Alabama]] [[Louisiana]]
 
 :: New Jersey
-<h1>New Jersey - Jersey Devil</h1>
- <p>After hearing the legends of a terrifying creature that inhabits the Pine Barrens, you 
- decide to travel to Southern New Jersey. Wandering around the nearby towns, you find a local 
- willing to tell you the tale of the Jersey Devil.</p>
- <p>Local: “It all starts back in 1735. Mother Leeds, as she is now known, cursed her child when 
- she found out she was pregnant for the 13th time.”
-  <br>You: “She cursed her own child?”
-  <br>Local: “Yes, she cried out that it would be the devil. On a story night, she went into labor 
-  and that became true. Although the child was born normal, she soon transformed into a creature with 
-  hooves, a goat’s head, bat wings and a forked tail.”
-  <br>You: “And that is what became the Jersey Devil.”
-  <br>Local: “Indeed. It then went on to be blamed for livestock killings, reported along with tracks 
-  and screams. Legend says it feeds on animals out in the Pine Barrens to this day.”</p>
+!New Jersey - Jersey Devil
+ After hearing the legends of a terrifying creature that inhabits the Pine Barrens, you 
+ \decide to travel to Southern New Jersey. Wandering around the nearby towns, you find a local 
+ \willing to tell you the tale of the Jersey Devil.
+ 
+ @@.dia;
+ __Local__: “It all starts back in 1735. Mother Leeds, as she is now known, cursed her child when 
+  \she found out she was pregnant for the 13th time.”
+ __You__: “She cursed her own child?”
+ __Local__: “Yes, she cried out that it would be the devil. On a story night, she went into labor 
+  \and that became true. Although the child was born normal, she soon transformed into a creature with 
+  \hooves, a goat’s head, bat wings and a forked tail.”
+ __You__: “And that is what became the Jersey Devil.”
+ __Local__: “Indeed. It then went on to be blamed for livestock killings, reported along with tracks 
+  \and screams. Legend says it feeds on animals out in the Pine Barrens to this day.”
 
-<h2>Collect Journal Entry</h2>
- Add Jersey Devil [[journal]] entry.
+!!Collect Journal Entry
+ Add //Jersey Devil// [[journal]] entry.
 
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Pennsylvania]]</td>
-  <td>[[Conneticut]]</td>
- </table>
+!!Where to Next
+ [[Pennsylvania]] [[Conneticut]]
 
 :: Conneticut
-<h1>Conneticut - Glawackus</h1>
+!Conneticut - Glawackus
 
-<h2>Collect Journal Entry</h2>
- Add Blawackus [[journal]] entry.
+!!Collect Journal Entry
+ Add //Glawackus// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Pennsylvania]]</td>
-  <td>[[New Jersey]]</td>
-  <td>[[Massachussetts]]</td>
- </table>
+!!Where to Next
+ [[Pennsylvania]] [[New Jersey]] [[Massachussetts]]
 
 :: Louisiana
-<h1>Couisiana - Rougarou</h1>
+!Louisiana - Rougarou
 
-<h2>Collect Journal Entry</h2>
- Add Rougarou [[journal]] entry.
+!!Collect Journal Entry
+ Add //Rougarou// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Texas]]</td>
-  <td>[[Alabama]]</td>
-  <td>[[Florida]]</td>
- </table>
+!!Where to Next
+ [[Texas]] [[Alabama]] [[Florida]]
 
 :: Massachussetts
-<h1>Massachussetts - Dover Demon</h1>
+!Massachussetts - Dover Demon
 
-<h2>Collect Journal Entry</h2>
- Add Dover Demon [[journal]] entry.
+!!Collect Journal Entry
+ Add //Dover Demon// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Conneticut]]</td>
-  <td>[[Maine]]</td>
- </table>
+!!Where to Next
+ [[Conneticut]] [[Maine]]
 
 :: Maine
-<h1>Maine - Specter Moose</h1>
+!Maine - Specter Moose
 
-<h2>Collect Journal Entry</h2>
- Add Specter Moose [[journal]] entry.
+!!Collect Journal Entry
+ Add //Specter Moose// [[journal]] entry.
 
-<h2>Where to Next</h2>
- <table>
-  <td>[[Massachussetts]]</td>
- </table>
+!!Where to Next
+ [[Massachussetts]]
 
 :: journal
+<h1>Cryptid Journal</h1>
+!!Entries
+
 
