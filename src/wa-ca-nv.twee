@@ -1,6 +1,13 @@
 :: Washington
 !Washington - Batsquatch
-[img[bat.jpg]]
+<table>
+    <tr>
+     <td><img src='bat.jpg'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+ 
 !!Collect Journal Entry
  Add //Batsquatch// <<link "journal">><<set $washington = 1>><</link>> entry.
 
@@ -38,7 +45,14 @@
 
 :: Nevada
 !Nevada - Tahoe Tessie
-[img[tahoe.png]]
+<table>
+    <tr>
+     <td><img src='tahoe.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Tahoe Tessie// <<link "journal">><<set $nevada = 1>><</link>> entry.
 

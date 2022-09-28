@@ -1,6 +1,13 @@
 :: Montana
 !Montanta - Shunka Warakin
-[img[shunka.png]]
+<table>
+    <tr>
+     <td><img src='shunka.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Shunka Warakin// <<link "journal">><<set $montana = 1>><</link>> entry.
 
@@ -9,11 +16,15 @@
 
 :: Wyoming
 !Wyoming - Jackalope
-[img[jackalope.png]]
- Getting tired from your travels, you decide to stop at the La Bonte Hotel in Douglas, Wyoming. This is where 
+<table>
+    <tr>
+     <td><img src='jackalope.png'/></td>
+     <td><p></p> Getting tired from your travels, you decide to stop at the La Bonte Hotel in Douglas, Wyoming. This is where 
  \you meet Roy Ball, the man who hunted and displayed the first Jackalope. He tells the story of this cute, but 
- \surprisingly dangerous creature.
- 
+ \surprisingly dangerous creature.</td>
+    </tr> \
+  </table> \
+ \
 <<linkreplace "Talk to Roy">> \
  <<linkappend "__Roy__: I see you are eyeing my Jackalope head I mounted. This was no easy feet. This jack rabbit with the horns of an antelope, despite looking like a cuddly rabbit, is actually quite powerful.">>
   <<linkappend "__You__: How can something so small and cute be that dangerous?">>
@@ -34,7 +45,14 @@
 
 :: Colorado
 !Colorado - Slide Rock Bolter
-[img[sliderock.png]]
+<table>
+    <tr>
+     <td><img src='sliderock.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Slide Rock Bolter// <<link "journal">><<set $colorado = 1>><</link>> entry.
 

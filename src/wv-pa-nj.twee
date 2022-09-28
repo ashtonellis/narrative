@@ -1,6 +1,13 @@
 :: West Virginia
 !West Virginia - Mothman
-[img[mothman.png]]
+<table>
+    <tr>
+     <td><img src='mothman.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Mothman// [[journal]] entry.
 
@@ -10,7 +17,14 @@
 
 :: Pennsylvania
 !Pennsylvania - Albatwitch
-[img[albatwitch.png]]
+<table>
+    <tr>
+     <td><img src='albatwitch.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Albatwitch// <<link "journal">><<set $pennsylvania = 1>><</link>> entry.
 
@@ -19,11 +33,15 @@
 
 :: New Jersey
 !New Jersey - Jersey Devil
-[img[jersey.jpg]]
- After hearing the legends of a terrifying creature that inhabits the Pine Barrens, you 
+<table>
+    <tr>
+     <td><img src='jersey.jpg'/></td>
+     <td><p></p> After hearing the legends of a terrifying creature that inhabits the Pine Barrens, you 
  \decide to travel to Southern New Jersey. Wandering around the nearby towns, you find a local 
- \willing to tell you the tale of the Jersey Devil.
- 
+ \willing to tell you the tale of the Jersey Devil.</td>
+    </tr> \
+  </table> \
+ \
  <<linkreplace "Talk to Local">> \
   <<linkappend "__Local__: It all starts back in 1735. Mother Leeds, as she is now known, cursed her child when she found out she was pregnant for the 14th time.">>
    <<linkappend "__You__: She cursed her own child?">>

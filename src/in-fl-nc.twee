@@ -1,6 +1,13 @@
 :: Indiana
 !Indiana - Beast of Busco
-[img[busco.png]]
+<table>
+    <tr>
+     <td><img src='busco.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Beast of Busco// <<link "journal">><<set $indiana = 1>><</link>> entry.
 
@@ -9,7 +16,14 @@
 
 :: Florida
 !Florida - Skunk Ape
-[img[skunkape.png]]
+<table>
+    <tr>
+     <td><img src='skunkape.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Skunk Ape// <<link "journal">><<set $florida = 1>><</link>> entry.
 
@@ -18,7 +32,14 @@
 
 :: North Carolina
 !North Carolina - Beast of Bladenboro
-[img[bladenboro.png]]
+<table>
+    <tr>
+     <td><img src='bladenboro.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Beast of Bladenboro// <<link "journal">><<set $carolina = 1>><</link>> entry.
 

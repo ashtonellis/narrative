@@ -1,6 +1,13 @@
 :: Nebraska
 !Nebraska - Alkali Lake Monster
-[img[alkali.png]]
+<table>
+    <tr>
+     <td><img src='alkali.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Alkali Lake Monster// <<link "journal">><<set $nebraska = 1>><</link>> entry.
 
@@ -9,7 +16,14 @@
 
 :: Minnesota
 !Minnesota - Wendigo
-[img[wendigo.png]]
+<table>
+    <tr>
+     <td><img src='wendigo.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Wendigo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
 
@@ -18,7 +32,14 @@
 
 :: Missouri
 !Missouri - Momo
-[img[momo.png]]
+<table>
+    <tr>
+     <td><img src='momo.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Momo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
 

@@ -1,6 +1,13 @@
 :: New Mexico
 !New Mexico - Skin Walker
-[img[skinwalker.png]]
+<table>
+    <tr>
+     <td><img src='skinwalker.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Skin Walker// <<link "journal">><<set $mexico = 1>><</link>> entry.
 
@@ -9,11 +16,15 @@
 
 :: Texas
 !Texas - Chupacabra
-[img[chupacabra.png]]
- Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
+<table>
+    <tr>
+     <td><img src='chupacabra.png'/></td>
+     <td><p></p> Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
 \of Texas, where you have made your next stop. While visiting the nearby farmers, you find someone 
-\who tells you their story.
- 
+\who tells you their story.</td>
+    </tr> \
+  </table> \
+ \
   <<linkreplace "Talk to Farmer">> \
    <<linkappend "__Farmer__: These reptile-like creatures with fangs and claws are known to feast on livestock, mainly goast, by draining their blood.">>
     <<linkappend "__You__: Like a vampire?">>
@@ -30,7 +41,14 @@
 
 :: Oklahoma
 !Oklahoma - Oklahoma Octopus
-[img[oklahoma.png]]
+<table>
+    <tr>
+     <td><img src='oklahoma.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+
 !!Collect Journal Entry
  Add //Oklahoma Octopus// <<link "journal">><<set $oklahoma = 1>><</link>> entry.
 
