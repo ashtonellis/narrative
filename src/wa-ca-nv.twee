@@ -2,10 +2,10 @@
 !Washington - Batsquatch
 
 !!Collect Journal Entry
- Add //Batsquatch// [[journal]] entry.
+ Add //Batsquatch// <<link "journal">><<set $washington = 1>><</link>> entry.
 
 !!Where to Next
-[[California]] [[Nevada]] [[Montana]] [[Map|Start]]
+[[California]] [[Nevada]] [[Montana]]
 
 :: California
 !California - Dark Watchers
@@ -26,17 +26,17 @@ Your next stop is the Santa Lucia Mountains in Central California, the home of t
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Dark Watchers// [[journal]] entry.
+ Add //Dark Watchers// <<link "journal">><<set $california = 1>><</link>> entry.
 
 
 !!Where to Next
-[[Washington]] [[Nevada]] [[New Mexico]] [[Map|Start]]
+[[Washington]] [[Nevada]] [[New Mexico]]
 
 :: Nevada
 !Nevada - Tahoe Tessie
 
 !!Collect Journal Entry
- Add //Tahoe Tessie// [[journal]] entry.
+ Add //Tahoe Tessie// <<link "journal">><<set $nevada = 1>><</link>> entry.
 
 !!Where to Next
-[[Washington]] [[California]] [[Colorado]] [[Map|Start]]
+[[Washington]] [[California]] [[Colorado]]

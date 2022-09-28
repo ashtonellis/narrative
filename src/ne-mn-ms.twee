@@ -2,28 +2,25 @@
 !Nebraska - Alkali Lake Monster
 [img[alkali.png]]
 !!Collect Journal Entry
- Add //Alkali Lake Monster// [[journal]] entry.
+ Add //Alkali Lake Monster// <<link "journal">><<set $nebraska = 1>><</link>> entry.
 
 !!Where to Next
  [[Wyoming]] [[Minnesota]] [[Oklahoma]] 
- [[Map|Start]]
 
 :: Minnesota
 !Minnesota - Wendigo
 
 !!Collect Journal Entry
- Add //Wendigo// [[journal]] entry.
+ Add //Wendigo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
 
 !!Where to Next
  [[Nebraska]] [[Missouri]] [[Illinois]] 
- [[Map|Start]]
 
 :: Missouri
 !Missouri - Momo
 
 !!Collect Journal Entry
- Add //Momo// [[journal]] entry.
+ Add //Momo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
 
 !!Where to Next
  [[Oklahoma]] [[Minnesota]] [[Illinois]] 
- [[Map|Start]]

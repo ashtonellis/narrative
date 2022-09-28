@@ -2,27 +2,25 @@
 !Conneticut - Glawackus
 
 !!Collect Journal Entry
- Add //Glawackus// [[journal]] entry.
+ Add //Glawackus// <<link "journal">><<set $conneticut = 1>><</link>> entry.
 
 !!Where to Next
  [[Pennsylvania]] [[New Jersey]] [[Massachussetts]] 
- [[Map|Start]]
 
 :: Massachussetts
 !Massachussetts - Dover Demon
 
 !!Collect Journal Entry
- Add //Dover Demon// [[journal]] entry.
+ Add //Dover Demon// <<link "journal">><<set $massachussetts = 1>><</link>> entry.
 
 !!Where to Next
  [[Conneticut]] [[Maine]] 
- [[Map|Start]]
 
 :: Maine
 !Maine - Specter Moose
 
 !!Collect Journal Entry
- Add //Specter Moose// [[journal]] entry.
+ Add //Specter Moose// <<link "journal">><<set $maine = 1>><</link>> entry.
 
 !!Where to Next
  [[Massachussetts]] 

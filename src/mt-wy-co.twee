@@ -2,11 +2,10 @@
 !Montanta - Shunka Warakin
 
 !!Collect Journal Entry
- Add //Shunka Warakin// [[journal]] entry.
+ Add //Shunka Warakin// <<link "journal">><<set $montana = 1>><</link>> entry.
 
 !!Where to Next
 [[Washington]] [[Wyoming]]
-[[Map|Start]]
 
 :: Wyoming
 !Wyoming - Jackalope
@@ -27,7 +26,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Jackalope// [[journal]] entry.
+ Add //Jackalope// <<link "journal">><<set $wyoming = 1>><</link>> entry.
 
 !!Where to Next
  [[Montana]] [[Colorado]] [[Nebraska]]
@@ -36,8 +35,7 @@
 !Colorado - Slide Rock Bolter
 
 !!Collect Journal Entry
- Add //Slide Rock Bolter// [[journal]] entry.
+ Add //Slide Rock Bolter// <<link "journal">><<set $colorado = 1>><</link>> entry.
 
 !!Where to Next
 [[Nevada]] [[New Mexico]] [[Wyoming]]
-[[Map|Start]]

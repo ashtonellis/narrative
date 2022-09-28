@@ -11,13 +11,11 @@
 :: Pennsylvania
 !Pennsylvania - Albatwitch
 
-
 !!Collect Journal Entry
- Add //Albatwitch// [[journal]] entry.
+ Add //Albatwitch// <<link "journal">><<set $pennsylvania = 1>><</link>> entry.
 
 !!Where to Next
  [[West Virginia]] [[New Jersey]] [[Conneticut]] 
- [[Map|Start]]
 
 :: New Jersey
 !New Jersey - Jersey Devil
@@ -40,8 +38,7 @@
 <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Jersey Devil// [[journal]] entry.
+ Add //Jersey Devil// <<link "journal">><<set $jersey = 1>><</link>> entry.
 
 !!Where to Next
  [[Pennsylvania]] [[Conneticut]] 
- [[Map|Start]]

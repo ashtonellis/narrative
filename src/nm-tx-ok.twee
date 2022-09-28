@@ -2,12 +2,11 @@
 !New Mexico - Skin Walker
 
 !!Collect Journal Entry
- Add //Skin Walker// [[journal]] entry.
+ Add //Skin Walker// <<link "journal">><<set $mexico = 1>><</link>> entry.
 
 !!Where to Next
  [[California]] [[Colorado]] [[Texas]]
- [[Map|Start]]
- 
+
 :: Texas
 !Texas - Chupacabra
  Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
@@ -23,17 +22,16 @@
   <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Chupacabra// [[journal]] entry.
+ Add //Chupacabra// <<link "journal">><<set $texas = 1>><</link>> entry.
 
 !!Where to Next
- [[New Mexico]] [[Oklahoma]] [[Louisiana]] [[Map|Start]]
+ [[New Mexico]] [[Oklahoma]] [[Louisiana]]
 
 :: Oklahoma
 !Oklahoma - Oklahoma Octopus
 
 !!Collect Journal Entry
- Add //Oklahoma Octopus// [[journal]] entry.
+ Add //Oklahoma Octopus// <<link "journal">><<set $oklahoma = 1>><</link>> entry.
 
 !!Where to Next
  [[Texas]] [[Nebraska]] [[Missouri]] 
- [[Map|Start]]
