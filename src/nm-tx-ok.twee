@@ -1,0 +1,39 @@
+:: New Mexico
+!New Mexico - Skin Walker
+
+!!Collect Journal Entry
+ Add //Skin Walker// [[journal]] entry.
+
+!!Where to Next
+ [[California]] [[Colorado]] [[Texas]]
+ [[Map|Start]]
+ 
+:: Texas
+!Texas - Chupacabra
+ Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
+\of Texas, where you have made your next stop. While visiting the nearby farmers, you find someone 
+\who tells you their story.
+ 
+  <<linkreplace "Talk to Farmer">> \
+   <<linkappend "__Farmer__: These reptile-like creatures with fangs and claws are known to feast on livestock, mainly goast, by draining their blood.">>
+    <<linkappend "__You__: Like a vampire?">>
+     __Farmer__: Correct. They were originally called el vampiro de Moca, or the vampire of Moca, after the small town they were originally found in. They were then called chupacabras which translates to‘goat-sucker’.
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Chupacabra// [[journal]] entry.
+
+!!Where to Next
+ [[New Mexico]] [[Oklahoma]] [[Louisiana]] [[Map|Start]]
+
+:: Oklahoma
+!Oklahoma - Oklahoma Octopus
+
+!!Collect Journal Entry
+ Add //Oklahoma Octopus// [[journal]] entry.
+
+!!Where to Next
+ [[Texas]] [[Nebraska]] [[Missouri]] 
+ [[Map|Start]]

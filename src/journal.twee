@@ -1,3 +1,145 @@
 :: journal
 <h1>Cryptid Journal</h1>
-!!Entries
+<<if visited("Washington")>> \
+!!!Batsquatch 
+__Location__: Mount St. Helens, Washington
+__Description__: 9 foot tall creature with blue fur, yellow eyes and sharp teeth. Has bat like wings that span up to 50 feet.
+[[return|Washington]] <</if>> \
+
+<<if visited("California")>> \
+!!!Dark Watchers
+__Location__: Santa Lucia Mountains, California
+__Description__: Tall featureless dark silhouettes, often adorned with brimmed hats or walking sticks.
+[[return|California]]<</if>> \
+
+<<if visited("Nevada")>> \
+!!!Tahoe Tessie
+__Location__: Lake Tahoe, Nevada-California Boarder
+__Description__: Serpent like creaure up to 60 feet long. Has a humped back, no scales and ranges from black to turqouise.
+[[return|California]]<</if>> \
+
+<<if visited("Montana")>> \
+!!!Shunka Warakin
+__Location__: Madison River Valley, Montana
+__Description__: Hyena like creature with high shoulders and a sloped back, nearly black in color.
+[[return|Montana]]<</if>> \
+
+<<if visited("New Mexico")>> \
+!!!Skin Walker
+__Location__: Northwest New Mexico
+__Description__: Human-like creature with the ability to transform into any animal form.
+[[return|New Mexico]]<</if>> \
+
+<<if visited("Colorado")>> \
+!!!Slide Rock Bolter
+__Location__: Mountains of Colorado
+__Description__: Gigantic worm creature with an immense head, small eyes and a large mouth. Has a fluke tail with large grab hooks on the end.
+[[return|Colorado]]<</if>> \
+
+<<if visited("Wyoming")>> \
+!!!Jackalope
+__Location__: Douglas, Wyoming
+__Description__: Jackrabbit with the horns of an antelope.
+[[return|Wyoming]]<</if>> \
+
+<<if visited("Texas")>> \
+!!!Chupacabra
+__Location__:
+__Description__:
+[[return|Texas]]<</if>> \
+
+<<if visited("Nebraska")>> \
+!!!Alkali Lake Monster
+__Location__: Haysprings, Nebraska
+__Description__: Alligator-esque creature approximately 40 feet long with ahorn between its eyes and nostrils.
+[[return|Nebraska]]<</if>> \
+
+<<if visited("Oklahoma")>> \
+!!!Oklahoma Octopus
+__Location__:
+__Description__:
+[[return|Oklahoma]]<</if>> \
+
+<<if visited("Minnestoa")>> \
+!!!Wendigo
+__Location__: 
+__Description__:
+[[return|Minnesota]]<</if>> \
+
+<<if visited("Missouri")>> \
+!!!Momo
+__Location__:
+__Description__:
+[[return|Missouri]]<</if>> \
+
+<<if visited("Illinois")>> \
+!!!Enfield Horror
+__Location__:
+__Description__:
+[[return|Illinois]]<</if>> \
+
+<<if visited("Indiana")>> \
+!!!Beast of Busco
+__Location__:
+__Description__:
+[[return|Indiana]]<</if>> \
+
+<<if visited("West Virginia")>> \
+!!!Mothman
+__Location__:
+__Description__:
+[[return|West Virginia]]<</if>> \
+
+<<if visited("North Carolina")>> \
+!!!Beast of Bladenboro
+__Location__:
+__Description__:
+[[return|North Carolina]]<</if>> \
+
+<<if visited("Pennsylvania")>> \
+!!!Albatwitch
+__Location__:
+__Description__:
+[[return|Pennsylvania]]<</if>> \
+
+<<if visited("Alabama")>> \
+!!!White Thang
+__Location__:
+__Description__:
+[[return|Alabama]]<</if>> \
+
+<<if visited("Flordia")>> \
+!!!Skunk Ape
+__Location__:
+__Description__:
+[[return|Flordia]]<</if>> \
+
+<<if visited("New Jersey")>> \
+!!!Jersey Devil
+__Location__: Pine Barrens, New Jersey
+__Description__: Creature with the head of a goat, hooves, bat wings and a forked tail.
+[[return|New Jersey]]<</if>> \
+
+<<if visited("Conneticut")>> \
+!!!Glawackus
+__Location__:
+__Description__:
+[[return|Conneticut]]<</if>> \
+
+<<if visited("Louisiana")>> \
+!!!Rougarou
+__Location__:
+__Description__:
+[[return|Louisiana]]<</if>> \
+
+<<if visited("Massachussetts")>> \
+!!!Dover Demon
+__Location__:
+__Description__:
+[[return|Massachussetts]]<</if>> \
+
+<<if visited("Maine")>> \
+!!!Specter Moose
+__Location__:
+__Description__:
+[[return|Maine]]<</if>> \

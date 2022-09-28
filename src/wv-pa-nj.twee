@@ -1,0 +1,47 @@
+:: West Virginia
+!West Virginia - Mothman
+
+!!Collect Journal Entry
+ Add //Mothman// [[journal]] entry.
+
+!!Where to Next
+ [[Indiana]] [[North Carolina]] [[Pennsylvania]] 
+ [[Map|Start]]
+
+:: Pennsylvania
+!Pennsylvania - Albatwitch
+
+
+!!Collect Journal Entry
+ Add //Albatwitch// [[journal]] entry.
+
+!!Where to Next
+ [[West Virginia]] [[New Jersey]] [[Conneticut]] 
+ [[Map|Start]]
+
+:: New Jersey
+!New Jersey - Jersey Devil
+[img[jersey.jpg]]
+ After hearing the legends of a terrifying creature that inhabits the Pine Barrens, you 
+ \decide to travel to Southern New Jersey. Wandering around the nearby towns, you find a local 
+ \willing to tell you the tale of the Jersey Devil.
+ 
+ <<linkreplace "Talk to Local">> \
+  <<linkappend "__Local__: It all starts back in 1735. Mother Leeds, as she is now known, cursed her child when she found out she was pregnant for the 14th time.">>
+   <<linkappend "__You__: She cursed her own child?">>
+    <<linkappend "__Local__: Yes, she cried out that it would be the devil. On a stormy night, she went into labor and that became true. Although the child was born normal, she soon transformed into a creature with hooves, a goat’s head, bat wings and a forked tail.">>
+     <<linkappend "__You__: And that is what became the Jersey Devil.">>
+      __Local__: Indeed. It then went on to be blamed for livestock killings, reported along with tracks and screams.Legend says it feeds on animals out in the Pine Barrens to this day.
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ 
+<</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Jersey Devil// [[journal]] entry.
+
+!!Where to Next
+ [[Pennsylvania]] [[Conneticut]] 
+ [[Map|Start]]
