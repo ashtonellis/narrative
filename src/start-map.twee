@@ -1,0 +1,278 @@
+:: StoryData
+{
+    "ifid": "1A500C97-C86C-4677-8A3D-01F0EAA73459",
+    "format": "SugarCube",
+    "format-version": "2.36.1"
+}
+
+:: StoryTitle
+Cryptids Across the Country
+
+:: StoryMenu
+[[journal]]
+
+:: Start
+!Cryptids Across the Country
+After years of listening to legends and myths of creatures scattered across the country, you decide 
+\to take a trip. You have collected a list of cryptids to find and learn about. As you travel, you document 
+\your findings in a journal.
+Click a location to begin your journey.
+<img src="map-outlines.png" usemap="#map">
+<map name="map">
+ <area shape="circle" coords="80,80,10,10" data-passage="Washington">
+ <area shape="circle" coords="30,280,10,10" data-passage="California">
+ <area shape="circle" coords="75,230,10,10" data-passage="Nevada">
+ <area shape="circle" coords="195,125,10,10" data-passage="Montana">
+ <area shape="circle" coords="285,205,10,10" data-passage="Wyoming">
+ <area shape="circle" coords="260,265,10,10" data-passage="Colorado">
+ <area shape="circle" coords="230,345,10,10" data-passage="New Mexico">
+ <area shape="circle" coords="390,470,10,10" data-passage="Texas">
+ <area shape="circle" coords="410,330,10,10" data-passage="Oklahoma">
+ <area shape="circle" coords="365,210,10,10" data-passage="Nebraska">
+ <area shape="circle" coords="465,105,10,10" data-passage="Minnesota">
+ <area shape="circle" coords="485,275,10,10" data-passage="Missouri">
+ <area shape="circle" coords="490,440,10,10" data-passage="Louisiana">
+ <area shape="circle" coords="585,355,10,10" data-passage="Alabama">
+ <area shape="circle" coords="540,275,10,10" data-passage="Illinois">
+ <area shape="circle" coords="575,225,10,10" data-passage="Indiana">
+ <area shape="circle" coords="695,505,10,10" data-passage="Florida">
+ <area shape="circle" coords="705,325,10,10" data-passage="North Carolina">
+ <area shape="circle" coords="640,265,10,10" data-passage="West Virginia">
+ <area shape="circle" coords="710,215,10,10" data-passage="Pennsylvania">
+ <area shape="circle" coords="740,205,10,10" data-passage="New Jersey">
+ <area shape="circle" coords="760,180,10,10" data-passage="Conneticut">
+ <area shape="circle" coords="775,165,10,10" data-passage="Massachussetts">
+ <area shape="circle" coords=" 785,75,10,10" data-passage="Maine">
+</map>
+
+
+:: Washington
+!Washington - Batsquatch
+
+!!Collect Journal Entry
+ Add //Batsquatch// [[journal]] entry.
+
+!!Where to Next
+[[California]] [[Nevada]] [[Montana]]
+
+
+
+:: Nevada
+!Nevada - Tahoe Tessie
+
+!!Collect Journal Entry
+ Add //Tahoe Tessie// [[journal]] entry.
+
+!!Where to Next
+[[Washington]] [[California]] [[Colorado]]
+
+:: Montana
+!Montanta - Shunka Warakin
+
+!!Collect Journal Entry
+ Add //Shunka Warakin// [[journal]] entry.
+
+!!Where to Next
+[[Washington]] [[Wyoming]]
+
+:: New Mexico
+!New Mexico - Skin Walker
+
+!!Collect Journal Entry
+ Add //Skin Walker// [[journal]] entry.
+
+!!Where to Next
+ [[California]] [[Colorado]] [[Texas]]
+
+:: Colorado
+!Colorado - Slide Rock Bolter
+
+!!Collect Journal Entry
+ Add //Slide Rock Bolter// [[journal]] entry.
+
+!!Where to Next
+[[Nevada]] [[New Mexico]] [[Wyoming]]
+
+:: Texas
+!Texas - Chupacabra
+ Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
+\of Texas, where you have made your next stop. While visiting the nearby farmers, you find someone 
+\who tells you their story.
+ 
+ @@.dia;
+ __Farmer__: “These reptile-like creatures with fangs and claws are known to feast on livestock, 
+\mainly goats, by draining their blood.”
+ __You__: “Like a vampire?” 
+ __Farmer__: “Correct. They were originally called el vampiro de Moca, or the vampire of Moca, after 
+\the small town they were originally found in. They were then called chupacabras which translates to
+\‘goat-sucker’.”
+
+!!Collect Journal Entry
+ Add //Chupacabra// [[journal]] entry.
+
+!!Where to Next
+ [[New Mexico]] [[Oklahoma]] [[Louisiana]]
+
+:: Nebraska
+!Nebraska - Alkali Lake Monster
+
+!!Collect Journal Entry
+ Add //Alkali Lake Monster// [[journal]] entry.
+
+!!Where to Next
+ [[Wyoming]] [[Minnesota]] [[Oklahoma]]
+
+:: Oklahoma
+!Oklahoma - Oklahoma Octopus
+
+!!Collect Journal Entry
+ Add //Oklahoma Octopus// [[journal]] entry.
+
+!!Where to Next
+ [[Texas]] [[Nebraska]] [[Missouri]]
+
+:: Minnesota
+!Minnesota - Wendigo
+
+!!Collect Journal Entry
+ Add //Wendigo// [[journal]] entry.
+
+!!Where to Next
+ [[Nebraska]] [[Missouri]] [[Illinois]]
+
+:: Missouri
+!Missouri - Momo
+
+!!Collect Journal Entry
+ Add //Momo// [[journal]] entry.
+
+!!Where to Next
+ [[Oklahoma]] [[Minnesota]] [[Illinois]]
+
+:: Illinois
+!Illinois - Enfield Horror
+
+!!Collect Journal Entry
+ Add //Enfield Horror// [[journal]] entry.
+
+!!Where to Next
+ [[Minnesota]] [[Missouri]] [[Indiana]]
+
+:: Indiana
+!Indiana - Beast of Busco
+
+!!Collect Journal Entry
+ Add //Beast of Busco// [[journal]] entry.
+
+!!Where to Next
+ [[Illinois]] [[West Virginia]]
+
+:: West Virginia
+!West Virginia - Mothman
+
+!!Collect Journal Entry
+ Add //Mothman// [[journal]] entry.
+
+!!Where to Next
+ [[Indiana]] [[North Carolina]] [[Pennsylvania]]
+
+:: North Carolina
+!North Carolina - Beast of Bladenboro
+
+!!Collect Journal Entry
+ Add //Beast of Bladenboro// [[journal]] entry.
+
+!!Where to Next
+ [[West Virginia]] [[Alabama]] [[Florida]]
+
+:: Pennsylvania
+!Pennsylvania - Albatwitch
+
+
+!!Collect Journal Entry
+ Add //Albatwitch// [[journal]] entry.
+
+!!Where to Next
+ [[West Virginia]] [[New Jersey]] [[Conneticut]]
+
+:: Alabama
+!Alabama - White Thang
+
+!!Collect Journal Entry
+ Add //White Thang// [[journal]] entry.
+
+!!Where to Next
+ [[North Carolina]] [[Louisiana]] [[Florida]]
+
+:: Florida
+!Florida - Skunk Ape
+
+!!Collect Journal Entry
+ Add //Skunk Ape// [[journal]] entry.
+
+!!Where to Next
+ [[North Carolina]] [[Alabama]] [[Louisiana]]
+
+:: New Jersey
+!New Jersey - Jersey Devil
+ After hearing the legends of a terrifying creature that inhabits the Pine Barrens, you 
+ \decide to travel to Southern New Jersey. Wandering around the nearby towns, you find a local 
+ \willing to tell you the tale of the Jersey Devil.
+ 
+ @@.dia;
+ __Local__: “It all starts back in 1735. Mother Leeds, as she is now known, cursed her child when 
+  \she found out she was pregnant for the 13th time.”
+ __You__: “She cursed her own child?”
+ __Local__: “Yes, she cried out that it would be the devil. On a story night, she went into labor 
+  \and that became true. Although the child was born normal, she soon transformed into a creature with 
+  \hooves, a goat’s head, bat wings and a forked tail.”
+ __You__: “And that is what became the Jersey Devil.”
+ __Local__: “Indeed. It then went on to be blamed for livestock killings, reported along with tracks 
+  \and screams. Legend says it feeds on animals out in the Pine Barrens to this day.”
+
+!!Collect Journal Entry
+ Add //Jersey Devil// [[journal]] entry.
+
+
+!!Where to Next
+ [[Pennsylvania]] [[Conneticut]]
+
+:: Conneticut
+!Conneticut - Glawackus
+
+!!Collect Journal Entry
+ Add //Glawackus// [[journal]] entry.
+
+!!Where to Next
+ [[Pennsylvania]] [[New Jersey]] [[Massachussetts]]
+
+:: Louisiana
+!Louisiana - Rougarou
+
+!!Collect Journal Entry
+ Add //Rougarou// [[journal]] entry.
+
+!!Where to Next
+ [[Texas]] [[Alabama]] [[Florida]]
+
+:: Massachussetts
+!Massachussetts - Dover Demon
+
+!!Collect Journal Entry
+ Add //Dover Demon// [[journal]] entry.
+
+!!Where to Next
+ [[Conneticut]] [[Maine]]
+
+:: Maine
+!Maine - Specter Moose
+
+!!Collect Journal Entry
+ Add //Specter Moose// [[journal]] entry.
+
+!!Where to Next
+ [[Massachussetts]]
+
+
+
+

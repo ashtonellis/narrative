@@ -1,0 +1,22 @@
+:: Wyoming
+!Wyoming - Jackalope
+ Getting tired from your travels, you decide to stop at the La Bonte Hotel in Douglas, Wyoming. This is where 
+ \you meet Roy Ball, the man who hunted and displayed the first Jackalope. He tells the story of this cute, but 
+ \surprisingly dangerous creature.
+ 
+ @@.dia;
+ __Roy__: “I see you are eyeing my Jackalope head I mounted. This was no easy feat. This jackrabbit with the 
+ \horns of an antelope, despite looking like a cuddly rabbit, is actually quite powerful.”
+ __You__: “How can something so small and cute be that dangerous?”
+ __Roy__: “This animal, instead of fleeing as most rabbits would, usually chose to face its attackers head on. 
+ \The antlers are quite sharp and would leave its prey bloody and full of gouges.”
+ __You__: “Is that why people keep telling me to wear stove pipes over my legs if I go hunting?”
+ __Roy__: “It is quite a good idea, these little creatures are known to mimic human phrases hiding at the edges 
+ \of where campers have built their fires.”
+ @@
+
+!!Collect Journal Entry
+ Add //Jackalope// [[journal]] entry.
+
+!!Where to Next
+ [[Montana]] [[Colorado]] [[Nebraska]]
