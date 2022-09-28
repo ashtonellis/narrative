@@ -1,6 +1,6 @@
 :: Washington
 !Washington - Batsquatch
-
+[img[bat.jpg]]
 !!Collect Journal Entry
  Add //Batsquatch// <<link "journal">><<set $washington = 1>><</link>> entry.
 
@@ -9,10 +9,14 @@
 
 :: California
 !California - Dark Watchers
-[img[watchers.jfif]]
-Your next stop is the Santa Lucia Mountains in Central California, the home of the Dark Watchers. You stumble 
- \along some campers, and a hiker informs you about these creatures.
- 
+<table>
+    <tr>
+     <td><img src='watchers.jfif'/></td>
+     <td><p>Your next stop is the Santa Lucia Mountains in Central California, the home of the Dark Watchers. You stumble 
+ \along some campers, and a hiker informs you about these creatures.</p></td>
+    </tr> \
+  </table> \
+ \
  <<linkreplace "Talk to Hiker">> \
   <<linkappend "\__Hiker__: “Although they have so far been harmless, these featureless silhouettes stand motionless, as though they are observing you, making note of every detail.\"">>
    <<linkappend "\__You__: “Is that why they are called Dark Watchers? Just shadows that stand there and watch?”">>
@@ -34,7 +38,7 @@ Your next stop is the Santa Lucia Mountains in Central California, the home of t
 
 :: Nevada
 !Nevada - Tahoe Tessie
-
+[img[tahoe.png]]
 !!Collect Journal Entry
  Add //Tahoe Tessie// <<link "journal">><<set $nevada = 1>><</link>> entry.
 

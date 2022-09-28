@@ -1,6 +1,6 @@
 :: New Mexico
 !New Mexico - Skin Walker
-
+[img[skinwalker.png]]
 !!Collect Journal Entry
  Add //Skin Walker// <<link "journal">><<set $mexico = 1>><</link>> entry.
 
@@ -9,6 +9,7 @@
 
 :: Texas
 !Texas - Chupacabra
+[img[chupacabra.png]]
  Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
 \of Texas, where you have made your next stop. While visiting the nearby farmers, you find someone 
 \who tells you their story.
@@ -29,7 +30,7 @@
 
 :: Oklahoma
 !Oklahoma - Oklahoma Octopus
-
+[img[oklahoma.png]]
 !!Collect Journal Entry
  Add //Oklahoma Octopus// <<link "journal">><<set $oklahoma = 1>><</link>> entry.
 

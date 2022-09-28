@@ -1,6 +1,6 @@
 :: Indiana
 !Indiana - Beast of Busco
-
+[img[busco.png]]
 !!Collect Journal Entry
  Add //Beast of Busco// <<link "journal">><<set $indiana = 1>><</link>> entry.
 
@@ -9,7 +9,7 @@
 
 :: Florida
 !Florida - Skunk Ape
-
+[img[skunkape.png]]
 !!Collect Journal Entry
  Add //Skunk Ape// <<link "journal">><<set $florida = 1>><</link>> entry.
 
@@ -18,7 +18,7 @@
 
 :: North Carolina
 !North Carolina - Beast of Bladenboro
-
+[img[bladenboro.png]]
 !!Collect Journal Entry
  Add //Beast of Bladenboro// <<link "journal">><<set $carolina = 1>><</link>> entry.
 

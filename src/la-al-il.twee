@@ -1,6 +1,6 @@
 :: Louisiana
 !Louisiana - Rougarou
-
+[img[rougarou.png]]
 !!Collect Journal Entry
  Add //Rougarou// <<link "journal">><<set $louisiana = 1>><</link>> entry.
 
@@ -9,7 +9,7 @@
 
 :: Alabama
 !Alabama - White Thang
-
+[img[whitethang.png]]
 !!Collect Journal Entry
  Add //White Thang// <<link "journal">><<set $alabama = 1>><</link>> entry.
 
@@ -18,7 +18,7 @@
 
 :: Illinois
 !Illinois - Enfield Horror
-
+[img[enfield.png]]
 !!Collect Journal Entry
  Add //Enfield Horror// <<link "journal">><<set $illinois = 1>><</link>> entry.
 

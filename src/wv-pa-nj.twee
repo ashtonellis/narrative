@@ -1,6 +1,6 @@
 :: West Virginia
 !West Virginia - Mothman
-
+[img[mothman.png]]
 !!Collect Journal Entry
  Add //Mothman// [[journal]] entry.
 
@@ -10,7 +10,7 @@
 
 :: Pennsylvania
 !Pennsylvania - Albatwitch
-
+[img[albatwitch.png]]
 !!Collect Journal Entry
  Add //Albatwitch// <<link "journal">><<set $pennsylvania = 1>><</link>> entry.
 

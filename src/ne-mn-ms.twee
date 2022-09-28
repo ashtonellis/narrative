@@ -9,7 +9,7 @@
 
 :: Minnesota
 !Minnesota - Wendigo
-
+[img[wendigo.png]]
 !!Collect Journal Entry
  Add //Wendigo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
 
@@ -18,7 +18,7 @@
 
 :: Missouri
 !Missouri - Momo
-
+[img[momo.png]]
 !!Collect Journal Entry
  Add //Momo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
 

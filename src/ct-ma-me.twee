@@ -1,6 +1,6 @@
 :: Conneticut
 !Conneticut - Glawackus
-
+[img[glawackus.png]]
 !!Collect Journal Entry
  Add //Glawackus// <<link "journal">><<set $conneticut = 1>><</link>> entry.
 
@@ -9,7 +9,7 @@
 
 :: Massachussetts
 !Massachussetts - Dover Demon
-
+[img[dover.png]]
 !!Collect Journal Entry
  Add //Dover Demon// <<link "journal">><<set $massachussetts = 1>><</link>> entry.
 
@@ -18,7 +18,7 @@
 
 :: Maine
 !Maine - Specter Moose
-
+[img[specter.png]]
 !!Collect Journal Entry
  Add //Specter Moose// <<link "journal">><<set $maine = 1>><</link>> entry.
 

@@ -1,6 +1,6 @@
 :: Montana
 !Montanta - Shunka Warakin
-
+[img[shunka.png]]
 !!Collect Journal Entry
  Add //Shunka Warakin// <<link "journal">><<set $montana = 1>><</link>> entry.
 
@@ -9,6 +9,7 @@
 
 :: Wyoming
 !Wyoming - Jackalope
+[img[jackalope.png]]
  Getting tired from your travels, you decide to stop at the La Bonte Hotel in Douglas, Wyoming. This is where 
  \you meet Roy Ball, the man who hunted and displayed the first Jackalope. He tells the story of this cute, but 
  \surprisingly dangerous creature.
@@ -33,7 +34,7 @@
 
 :: Colorado
 !Colorado - Slide Rock Bolter
-
+[img[sliderock.png]]
 !!Collect Journal Entry
  Add //Slide Rock Bolter// <<link "journal">><<set $colorado = 1>><</link>> entry.
 
