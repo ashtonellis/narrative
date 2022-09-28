@@ -8,6 +8,9 @@
 :: StoryTitle
 Cryptids Across the Country
 
+:: StoryMenu
+[[journal]]
+
 :: Start
 !Cryptids Across the Country
 After years of listening to legends and myths of creatures scattered across the country, you decide 
@@ -16,9 +19,7 @@ After years of listening to legends and myths of creatures scattered across the 
 Click a location to begin your journey.
 <img src="map-outlines.png" usemap="#map">
 <map name="map">
- <!-- not working -->
  <area shape="circle" coords="80,80,10,10" data-passage="Washington">
- <!-- working -->
  <area shape="circle" coords="30,280,10,10" data-passage="California">
  <area shape="circle" coords="75,230,10,10" data-passage="Nevada">
  <area shape="circle" coords="195,125,10,10" data-passage="Montana">
@@ -43,31 +44,7 @@ Click a location to begin your journey.
  <area shape="circle" coords="775,165,10,10" data-passage="Massachussetts">
  <area shape="circle" coords=" 785,75,10,10" data-passage="Maine">
 </map>
-  [[Washington]]
-  [[California]]
-  [[Nevada]]
-  [[Montana]]
-  [[New Mexico]]
-  [[Colorado]]
-  [[Wyoming]]
-  [[Texas]]
-  [[Nebraska]]
-  [[Oklahoma]]
-  [[Minnesota]]
-  [[Missouri]]
-  [[Illinois]]
-  [[Indiana]]
-  [[West Virginia]]
-  [[North Carolina]]
-  [[Pennsylvania]]
-  [[Alabama]]
-  [[Florida]]
-  [[New Jersey]]
-  [[Conneticut]]
-  [[Louisiana]]
-  [[Massachussetts]]
-  [[Maine]]
- 
+
 
 :: Washington
 !Washington - Batsquatch
@@ -341,8 +318,6 @@ Your next stop is the Santa Lucia Mountains in Central California, the home of t
 !!Where to Next
  [[Massachussetts]]
 
-:: journal
-<h1>Cryptid Journal</h1>
-!!Entries
+
 
 
