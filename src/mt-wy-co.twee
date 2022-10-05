@@ -64,16 +64,21 @@
 <table>
     <tr>
      <td><img src='sliderock.png'/></td>
-     <td><p></p></td>
+     <td><p>Looking up at the vast mountains of Colorado, you see the many valleys and peaks that span the state.
+     \ In one of the valleys, you run into a lumberjack that warns you of the Slide Rock Bolter.</p></td>
     </tr> \
   </table> \
  \
   <<linkreplace "Talk to Lumberjack">> \
-  <<linkappend "\__Lumberjack__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Lumberjack__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Lumberjack__: “”
+  <<linkappend "\__Lumberjack__: “You best be careful wandering around in these valleys. You don't want to set up camp in one spot for too long in these parts.”">>
+   <<linkappend "\__You__: “Why not? What's going to happen if I do?”">>
+    <<linkappend "\ __Lumberjack__: “The Slide Rock Bolter keeps his eye out for prey down here. If you stay for too long, its only a matter of time before he notices you.”">>
+     <<linkappend "\__You__: “The Slide Rock what?”">>
+      <<linkappend "\__Lumberjack__: “Slide Rock Bolter. He is a worm-like creature withan immense head, small eyes and a giant mouth. He holds onto the crest of the mountain, waiting motionless for days waiting for his prey to arrive.”">>
+       <<linkappend "\__You__: “What happens when he finds his prey?”">>
+        __Lumberjack__: “He releases the hooks on his tail that are holding on to the crest. He then slides down the mountain with his mouth wide open, scooping up his prey on his way down. Then his momentum sends him right up the next mountain where he grabs on again and repeats this waiting for his next group of prey.”
+       <</linkappend>> \
+      <</linkappend>> \
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
