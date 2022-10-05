@@ -7,6 +7,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Glawackus// <<link "journal">><<set $conneticut = 1>><</link>> entry.
@@ -23,6 +34,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Dover Demon// <<link "journal">><<set $massachussetts = 1>><</link>> entry.
@@ -39,6 +61,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Specter Moose// <<link "journal">><<set $maine = 1>><</link>> entry.

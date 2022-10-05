@@ -7,6 +7,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Shunka Warakin// <<link "journal">><<set $montana = 1>><</link>> entry.
@@ -52,6 +63,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Slide Rock Bolter// <<link "journal">><<set $colorado = 1>><</link>> entry.

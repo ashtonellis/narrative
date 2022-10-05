@@ -3,10 +3,26 @@
 <table>
     <tr>
      <td><img src='bat.jpg'/></td>
-     <td><p></p></td>
+     <td><p>You decide to take a trip to visit Mount Saint Helens in Washington. This is where you hear the tale of 
+     \the Batsquatch. There have been many sightings, but none as notable as Brian Canfield's in 1994.</p></td>
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Brian">> \
+  <<linkappend "\__Brian__: “\So, you are here to learn the legend of the Batsquatch.”">>
+   <<linkappend "\__You__: “Yeah, I heard you had an encounter when you were driving in 1994.”">>
+    <<linkappend "\ __Brian__: “This is true. I was driving in Pierce county when my truck stalled. I got out to look under the hood when suddenly something landed on the hood of my truck.”">>
+     <<linkappend "\__You__: “The Batsquatch?”">>
+      <<linkappend "\__Brian__: “That what they call it. At the time I just saw a 9 foot tall creature with yellow eyes, blue furr and sharp teeth. Terrifying enough, but then I saw the wings.”">>
+       <<linkappend "\__You__: “Wings? Like, bat wings?”">>
+        __Brian__: “Correct again. As soon as I laid eyes on it, it spread out its wings. Must have been at least 50 feet across. Then it took off. Luckily, that was the last time I had to see this creature”
+       <</linkappend>> \
+      <</linkappend>> \
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
  
 !!Collect Journal Entry
  Add //Batsquatch// <<link "journal">><<set $washington = 1>><</link>> entry.
@@ -29,7 +45,7 @@
    <<linkappend "\__You__: “Is that why they are called Dark Watchers? Just shadows that stand there and watch?”">>
     <<linkappend "\ __Hiker__: “Yes. Some have tried to approach them, but as soon as you get near, they disappear as though they are not meant for you to interact with.”">>
      <<linkappend "\__You__: “Shadow figures that will always remain a mystery.”">>
-      __Hiker__: “That seems to be true. It is purported that they will ignore don’t bother those who mind their own business, although if someone where to finally meet one, who knows if they would live to tell the tale.
+      __Hiker__: “That seems to be true. It is purported that they will ignore don’t bother those who mind their own business, although if someone where to finally meet one, who knows if they would live to tell the tale."
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
@@ -52,6 +68,17 @@
     </tr> \
   </table> \
  \
+ <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Tahoe Tessie// <<link "journal">><<set $nevada = 1>><</link>> entry.

@@ -4,142 +4,166 @@
 !!!Batsquatch 
 __Location__: Mount St. Helens, Washington
 __Description__: 9 foot tall creature with blue fur, yellow eyes and sharp teeth. Has bat like wings that span up to 50 feet.
+__Classification__: Sasquatch
 [[return|Washington]] <</if>> \
 
 <<if $california is 1>> \
 !!!Dark Watchers
 __Location__: Santa Lucia Mountains, California
 __Description__: Tall featureless dark silhouettes, often adorned with brimmed hats or walking sticks.
+__Classification__: Humanoid
 [[return|California]]<</if>> \
 
 <<if $nevada is 1>> \
 !!!Tahoe Tessie
 __Location__: Lake Tahoe, Nevada-California Boarder
 __Description__: Serpent like creaure up to 60 feet long. Has a humped back, no scales and ranges from black to turqouise.
+__Classification__: Lake Monster
 [[return|California]]<</if>> \
 
 <<if $montana is 1>> \
 !!!Shunka Warakin
 __Location__: Madison River Valley, Montana
 __Description__: Hyena like creature with high shoulders and a sloped back, nearly black in color.
+__Classification__: Animal-Canine
 [[return|Montana]]<</if>> \
-
-<<if $mexico is 1>> \
-!!!Skin Walker
-__Location__: Northwest New Mexico
-__Description__: Human-like creature with the ability to transform into any animal form.
-[[return|New Mexico]]<</if>> \
 
 <<if $colorado is 1>> \
 !!!Slide Rock Bolter
 __Location__: Mountains of Colorado
 __Description__: Gigantic worm creature with an immense head, small eyes and a large mouth. Has a fluke tail with large grab hooks on the end.
+__Classification__: Alien/Unknown
 [[return|Colorado]]<</if>> \
+
+<<if $mexico is 1>> \
+!!!Skin Walker
+__Location__: Northwest New Mexico
+__Description__: Human-like creature with the ability to transform into any animal form.
+__Classification__: Humanoid
+[[return|New Mexico]]<</if>> \
 
 <<if $wyoming is 1>> \
 !!!Jackalope
 __Location__: Douglas, Wyoming
 __Description__: Jackrabbit with the horns of an antelope.
+__Classification__: Animal-Rabbit
 [[return|Wyoming]]<</if>> \
 
 <<if $texas is 1>> \
 !!!Chupacabra
-__Location__:
-__Description__:
+__Location__: Rural Texas
+__Description__: Reptile-like creatures with fangs and claws.
+__Classification__: Animal-Reptile
 [[return|Texas]]<</if>> \
 
 <<if $nebraska is 1>> \
 !!!Alkali Lake Monster
 __Location__: Haysprings, Nebraska
 __Description__: Alligator-esque creature approximately 40 feet long with ahorn between its eyes and nostrils.
+__Classification__: Lake Monster
 [[return|Nebraska]]<</if>> \
 
 <<if $oklahoma is 1>> \
 !!!Oklahoma Octopus
-__Location__:
-__Description__:
+__Location__: Man-Made Lakes, Oklahoma
+__Description__: Octopus-like creature about the size of a horse with long tentables and leathery, reddish-brown skin.
+__Classification__: Lake Monster
 [[return|Oklahoma]]<</if>> \
 
 <<if $minnesota is 1>> \
 !!!Wendigo
-__Location__: 
-__Description__:
+__Location__: Northern Woods of Minnesota
+__Description__: Human beast hybrid with antlers or horns, often severely emancipated and bones can be seen through translucent gray skin. Followed by a foul stench or sudden, unseasonable chill.
+__Classification__: Humanoid
 [[return|Minnesota]]<</if>> \
 
 <<if $missouri is 1>> \
 !!!Momo
-__Location__:
-__Description__:
+__Location__: Louisian, Missouri
+__Description__: Bipedal ape-like humanoid about 7 feet tall. Has a pumkin shaped head, glowing eyes and is covered in dark fur and emits a putrid odor.
+__Classification__: Sasquatch
 [[return|Missouri]]<</if>> \
 
 <<if $illinois is 1>> \
 !!!Enfield Horror
-__Location__:
-__Description__:
+__Location__: Enfield, Illinois
+__Description__: 4.5 foot tall creature that is gray in color. Has three legs, a short body, two short arms and large pink eyes.
+__Classification__: Alien
 [[return|Illinois]]<</if>> \
 
 <<if $indiana is 1>> \
 !!!Beast of Busco
-__Location__:
-__Description__:
+__Location__: Churubusco, Indiana, Lake Fulk
+__Description__: Enormous snapping turtle. Estimated 6 feet long, 4 feet wide and about 500 pounds.
+__Classification__: Lake Monster
 [[return|Indiana]]<</if>> \
 
 <<if $virginia is 1>> \
 !!!Mothman
-__Location__:
-__Description__:
+__Location__: Point Pleasent, West Virignia
+__Description__: Bipedal winged humanoid, ranging in color from black to gray to brown, all darker shades. Has glowing red eyes, sometimes is described as headless with its eyes on its chest. 7 feet tall with a 10-15 foot wingspan, allowing it to fly upwards of 100mph.
+__Classification__: Humanoid
 [[return|West Virginia]]<</if>> \
 
 <<if $carolina is 1>> \
 !!!Beast of Bladenboro
-__Location__:
-__Description__:
+__Location__: Bladenboro, North Carolina and surrounding regions
+__Description__: Large, cat-like beast, 3 to 4 feet long and a little under 2 feet tall, weighing an estimated 150 pounds. It is describes as part panther part bear, having brownish and tabby bushy fur, runty ears, a long tail and a cat-like face.
+__Classification__: Animal-Feline
 [[return|North Carolina]]<</if>> \
 
 <<if $pennsylvania is 1>> \
 !!!Albatwitch
 __Location__:
 __Description__:
+__Classification__: Sasquatch
 [[return|Pennsylvania]]<</if>> \
 
 <<if $alabama is 1>> \
 !!!White Thang
 __Location__:
 __Description__:
+__Classification__: Sasquatch
 [[return|Alabama]]<</if>> \
 
 <<if $florida is 1>> \
 !!!Skunk Ape
 __Location__:
 __Description__:
+__Classification__: Sasquatch
 [[return|Flordia]]<</if>> \
 
 <<if $jersey is 1>> \
 !!!Jersey Devil
 __Location__: Pine Barrens, New Jersey
 __Description__: Creature with the head of a goat, hooves, bat wings and a forked tail.
+__Classification__: Devil
 [[return|New Jersey]]<</if>> \
 
 <<if $conneticut is 1>> \
 !!!Glawackus
 __Location__:
 __Description__:
+__Classification__: Animal-Feline
 [[return|Conneticut]]<</if>> \
 
 <<if $louisiana is 1>> \
 !!!Rougarou
 __Location__:
 __Description__:
+__Classification__: Animal-Canine
 [[return|Louisiana]]<</if>> \
 
 <<if $massachussetts is 1>> \
 !!!Dover Demon
 __Location__:
 __Description__:
+__Classification__: Alien
 [[return|Massachussetts]]<</if>> \
 
 <<if $maine is 1>> \
 !!!Specter Moose
 __Location__:
 __Description__:
+__Classification__: Animal-Moose
 [[return|Maine]]<</if>> \

@@ -7,9 +7,20 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Mothman// [[journal]] entry.
+ Add //Mothman// <<link "journal">><<set $virginia = 1>><</link>> entry.
 
 !!Where to Next
  [[Indiana]] [[North Carolina]] [[Pennsylvania]] 
@@ -24,6 +35,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Albatwitch// <<link "journal">><<set $pennsylvania = 1>><</link>> entry.

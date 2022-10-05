@@ -7,6 +7,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Skin Walker// <<link "journal">><<set $mexico = 1>><</link>> entry.
@@ -48,6 +59,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Oklahoma Octopus// <<link "journal">><<set $oklahoma = 1>><</link>> entry.

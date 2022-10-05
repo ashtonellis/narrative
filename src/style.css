@@ -8,9 +8,22 @@ body {
 }
 
 a {
-    color:rgb(33, 33, 33)
+    color:rgb(33, 33, 33);
 }
 
 a:hover  {
-    color:rgb(33, 33, 33)
+    color:rgb(33, 33, 33);
 }
+
+#menu-item-saves {
+    display:none;
+}
+
+#ui-bar-history {
+    display:none;
+}
+
+#title {
+    color:rgb(195, 0, 0);  
+}
+

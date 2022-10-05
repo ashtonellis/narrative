@@ -7,6 +7,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Alkali Lake Monster// <<link "journal">><<set $nebraska = 1>><</link>> entry.
@@ -23,6 +34,17 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
  Add //Wendigo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
@@ -39,9 +61,20 @@
     </tr> \
   </table> \
  \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Momo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
+ Add //Momo// <<link "journal">><<set $missouri = 1>><</link>> entry.
 
 !!Where to Next
  [[Oklahoma]] [[Minnesota]] [[Illinois]] 
