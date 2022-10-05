@@ -56,16 +56,17 @@
 <table>
     <tr>
      <td><img src='oklahoma.png'/></td>
-     <td><p></p></td>
+     <td><p>You've heard stories of a freshwater demon haunting the man-made lakes of Oklahoma. You visit the Oologah 
+     \Lake and run into one of the cabin owners, who tells you the tale of the Oklahoma Octopus.</p></td>
     </tr> \
   </table> \
  \
-  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Diver__: “”
+  <<linkreplace "Talk to Cabin Owner">> \
+  <<linkappend "\__Cabin Owner__: “Be careful swimming in those waters there. There is a high mortality rate, and a large number of unexplained drownings.”">>
+   <<linkappend "\__You__: “What do you mean 'unexplained'?”">>
+    <<linkappend "\ __Cabin Owner__: “Well, we all have our theories, but the police never believe us.”">>
+     <<linkappend "\__You__: “What do you think it is?”">>
+      __Cabin Owner__: “The Oklahoma Octopus. I've never seen it myself, but people day it is the size of a horse with long tentacles and leathery, reddish-brown skin. It attacks and kills unsuspecting swimmers.”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
