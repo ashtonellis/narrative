@@ -35,8 +35,8 @@
 <table>
     <tr>
      <td><img src='watchers.jfif'/></td>
-     <td><p>Your next stop is the Santa Lucia Mountains in Central California, the home of the Dark Watchers. You stumble 
- \along some campers, and a hiker informs you about these creatures.</p></td>
+     <td><p>Your next stop is the Santa Lucia Mountains in Central California, the home of the Dark Watchers. You 
+     \stumble along some campers, and a hiker informs you about these creatures.</p></td>
     </tr> \
   </table> \
  \
@@ -64,16 +64,18 @@
 <table>
     <tr>
      <td><img src='tahoe.png'/></td>
-     <td><p></p></td>
+     <td><p>After driving through the desert, you come across a gorgeous lake and stop for a bit of a rest. Once 
+     \you approach Lake Tahoe, right at the border of Nevada and California, you see some diver's gearing up for 
+     \a trip into the lake. You approach one and he gives you the warning of Tahoe Tessie.</p></td>
     </tr> \
   </table> \
  \
  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Diver__: “”
+  <<linkappend "\__Diver__: “I wouldn't recommend going into this lake here, if you know what's good for ya.”">>
+   <<linkappend "\__You__: “Why not? What could be hiding in there?”">>
+    <<linkappend "\ __Diver__: “We call her Tahoe Tessie, and she is no small creature. When I saw her, she was a serpent like creature about 60 feet long, with a large humpback and no scales.”">>
+     <<linkappend "\__You__: “Where did you see her?”">>
+      __Diver__: “A buddy and I were diving in the caves out here. When we reached the entrance to one of the largers ones, she shot out past us in a cloud of silt. Once it settled, we saw two giant fin prints left in the cave.”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
