@@ -3,16 +3,21 @@
 <table>
     <tr>
      <td><img src='shunka.png'/></td>
-     <td><p></p></td>
+     <td><p>While traveling through Montana, you reach Madison River Valley. This is where you meet Lance Foster,
+     \an Ioway Indian that tells you the story of the Shunka Warakin.</p></td>
     </tr> \
   </table> \
  \
-  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Diver__: “”
+  <<linkreplace "Talk to Lance">> \
+  <<linkappend "\__Lance__: “This creature as shown up overtime under many different names, but my tribe and I call it Shunka Warakin, from it's tendancy to sneak into camps at night and steal our dogs, along with killing our livestock.”">>
+   <<linkappend "\__You__: “Overtime? When was it first discovered?”">>
+    <<linkappend "\ __Lance__: “The first account we have of this creature is 1886, when Israel Hutchins shot a killed it and gave it to Joseph Sherwood to taxidermy it. At the time, it was called the Ringodocus and the body was displayed at Joseph's general store and museum, until it went missing.”">>
+     <<linkappend "\__You__: “Missing? Where did it go?”">>
+      <<linkappend "\__Lance__: “No one knows, until it reappered in 2007, shortly after another one of its kind went on a spree.”">>
+       <<linkappend "\__You__: “There's more than one?”">>
+        __Lance__: “That's what people think, although this one went by a different name. From 2005 to 2006, it was called the Creature of McCone County, and killed over 120 livestock animals before being shot and killed again.”
+       <</linkappend>> \
+      <</linkappend>> \
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
