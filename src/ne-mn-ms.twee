@@ -58,16 +58,17 @@
 <table>
     <tr>
      <td><img src='momo.png'/></td>
-     <td><p></p></td>
+     <td><p>Wandering around Missouri, you find your way into Louisiana. This is where you meet Richard Allen Murray,
+     \ a city council member who has had a run in with the creature know as Momo, or the Monster of Missouri.</p></td>
     </tr> \
   </table> \
  \
   <<linkreplace "Talk to Richard">> \
-  <<linkappend "\__Richard__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Richard__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Richard__: “”
+  <<linkappend "\__Richard__: “So, you are interested in learning the legend of Momo?”">>
+   <<linkappend "\__You__: “Yeah, I heard that you had a run in with the creature.”">>
+    <<linkappend "\ __Richard__: “That is true. The fire chief and I were driving along the creek bed here when all of the sudden ahead in our headlight was this massive creature stand upright, probably at least 7 feet tall and covered in dark fur.”">>
+     <<linkappend "\__You__: “Are you the only ones who have seen it?”">>
+      __Richard__: “There's a story of these two boys in 1972 that were playing outside when their sister hears them scream from inside. When she goes out to check on them, she saw a dark haired creature with with a pumpkin shaped head and glowing eyes that appeared to be holding a deceased dog.”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
