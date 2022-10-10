@@ -3,16 +3,17 @@
 <table>
     <tr>
      <td><img src='busco.png'/></td>
-     <td><p>Gale Harris</p></td>
+     <td><p>Crossing into Indiana, you decide to go to Churubusco. You head out to Lake Fulk, owned by Gale Harris,
+     \ which is home to the Beast of Busco.</p></td>
     </tr> \
   </table> \
  \
   <<linkreplace "Talk to Gale">> \
-  <<linkappend "\__Gale__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Gale__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Gale__: “”
+  <<linkappend "\__Gale__: “I'd be careful down by that lake there. It's not safe with that creature out there.”">>
+   <<linkappend "\__You__: “What creature?”">>
+    <<linkappend "\ __Gale__: “The Beast of Busco. A giant snapping turtle at least 6 feet long and 4 feet wide. It was first seen by Oscar Fulk, the orignal owner of this lake. Then seen again by Ora Blue and Charley Wilson, who guessed that he weighed about 500 pounds.”">>
+     <<linkappend "\__You__: “Have you seen it?”">>
+      __Gale__: “I have, a couple of times actually. I was out there once and was able to get close enough to him on my boat that I could touch his tail, but then he thrashed and capsized my boat. I have made a couple attempts to catch him, but each failed. An old friend of mine, Del, filmed the creature from a tree on the lakeside, but the footage was lost.”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
