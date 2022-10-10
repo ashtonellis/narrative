@@ -1,5 +1,5 @@
 :: journal
-<h1>Cryptid Journal</h1>
+!Cryptid Journal
 <<if $washington is 1>> \
 !!!Batsquatch 
 __Location__: Mount St. Helens, Washington
@@ -25,7 +25,7 @@ __Classification__: Lake Monster
 !!!Shunka Warakin
 __Location__: Madison River Valley, Montana
 __Description__: Hyena like creature with high shoulders and a sloped back, nearly black in color.
-__Classification__: Animal-Canine
+__Classification__: Animal: Canine
 [[return|Montana]]<</if>> \
 
 <<if $colorado is 1>> \
@@ -46,14 +46,14 @@ __Classification__: Humanoid
 !!!Jackalope
 __Location__: Douglas, Wyoming
 __Description__: Jackrabbit with the horns of an antelope.
-__Classification__: Animal-Rabbit
+__Classification__: Animal: Rabbit
 [[return|Wyoming]]<</if>> \
 
 <<if $texas is 1>> \
 !!!Chupacabra
 __Location__: Rural Texas
 __Description__: Reptile-like creatures with fangs and claws.
-__Classification__: Animal-Reptile
+__Classification__: Animal: Reptile
 [[return|Texas]]<</if>> \
 
 <<if $nebraska is 1>> \
@@ -109,7 +109,7 @@ __Classification__: Humanoid
 !!!Beast of Bladenboro
 __Location__: Bladenboro, North Carolina and surrounding regions
 __Description__: Large, cat-like beast, 3 to 4 feet long and a little under 2 feet tall, weighing an estimated 150 pounds. It is describes as part panther part bear, having brownish and tabby bushy fur, runty ears, a long tail and a cat-like face.
-__Classification__: Animal-Feline
+__Classification__: Animal: Feline
 [[return|North Carolina]]<</if>> \
 
 <<if $pennsylvania is 1>> \
@@ -144,14 +144,14 @@ __Classification__: Devil
 !!!Glawackus
 __Location__:
 __Description__:
-__Classification__: Animal-Feline
+__Classification__: Animal: Feline
 [[return|Conneticut]]<</if>> \
 
 <<if $louisiana is 1>> \
 !!!Rougarou
 __Location__:
 __Description__:
-__Classification__: Animal-Canine
+__Classification__: Animal: Canine
 [[return|Louisiana]]<</if>> \
 
 <<if $massachussetts is 1>> \
@@ -165,5 +165,5 @@ __Classification__: Alien
 !!!Specter Moose
 __Location__:
 __Description__:
-__Classification__: Animal-Moose
+__Classification__: Animal: Moose
 [[return|Maine]]<</if>> \

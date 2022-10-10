@@ -62,12 +62,12 @@
     </tr> \
   </table> \
  \
-  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
+  <<linkreplace "Talk to Richard">> \
+  <<linkappend "\__Richard__: “”">>
    <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
+    <<linkappend "\ __Richard__: “”">>
      <<linkappend "\__You__: “”">>
-      __Diver__: “”
+      __Richard__: “”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
