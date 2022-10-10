@@ -14,10 +14,10 @@ Cryptids Across the Country
 
 :: Start
 !Cryptids Across the Country
-After years of listening to legends and myths of creatures scattered across the country, you decide 
-\to take a trip. You have collected a list of cryptids to find and learn about. As you travel, you document 
-\your findings in a journal.
-Click a location to begin your journey.
+After years of listening to legends and myths of creatures scattered across the country, you decide to take a trip. 
+\You have collected a list of cryptids to find and learn about. As you travel, you document your findings in a 
+\journal.
+!!!Click a location to begin your journey.
 <img src="map-outlines.png" usemap="#map">
 <map name="map">
  <area shape="circle" coords="80,80,10,10" data-passage="Washington">
