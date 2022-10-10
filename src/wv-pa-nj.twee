@@ -7,12 +7,12 @@
     </tr> \
   </table> \
  \
-  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
+  <<linkreplace "Talk to Couple">> \
+  <<linkappend "\__Couple__: “”">>
    <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
+    <<linkappend "\ __Couple__: “”">>
      <<linkappend "\__You__: “”">>
-      __Diver__: “”
+      __Couple__: “”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \

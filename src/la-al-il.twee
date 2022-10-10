@@ -57,16 +57,16 @@
 <table>
     <tr>
      <td><img src='enfield.png'/></td>
-     <td><p></p></td>
+     <td><p>Henry McDaniel</p></td>
     </tr> \
   </table> \
  \
-  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
+  <<linkreplace "Talk to Henry">> \
+  <<linkappend "\__Henry__: “”">>
    <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
+    <<linkappend "\ __Henry__: “”">>
      <<linkappend "\__You__: “”">>
-      __Diver__: “”
+      __Henry__: “”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \

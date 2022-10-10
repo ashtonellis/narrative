@@ -3,16 +3,16 @@
 <table>
     <tr>
      <td><img src='busco.png'/></td>
-     <td><p></p></td>
+     <td><p>Gale Harris</p></td>
     </tr> \
   </table> \
  \
-  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
+  <<linkreplace "Talk to Gale">> \
+  <<linkappend "\__Gale__: “”">>
    <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
+    <<linkappend "\ __Gale__: “”">>
      <<linkappend "\__You__: “”">>
-      __Diver__: “”
+      __Gale__: “”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
@@ -61,12 +61,12 @@
     </tr> \
   </table> \
  \
-  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
+  <<linkreplace "Talk to Resident">> \
+  <<linkappend "\__Resident__: “”">>
    <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
+    <<linkappend "\ __Resident__: “”">>
      <<linkappend "\__You__: “”">>
-      __Diver__: “”
+      __Resident__: “”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
