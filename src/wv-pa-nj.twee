@@ -3,16 +3,17 @@
 <table>
     <tr>
      <td><img src='mothman.png'/></td>
-     <td><p></p></td>
+     <td><p>After hearing the stories of Mothman, you head out to Point Pleasent in West Virginia. You meet a couple
+     \ who has had an encounter with this creature, and they tell you the tale.</p></td>
     </tr> \
   </table> \
  \
   <<linkreplace "Talk to Couple">> \
-  <<linkappend "\__Couple__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Couple__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Couple__: “”
+  <<linkappend "\__Couple__: “Avoid driving on these road at night if you can. That's when the Mothman comes out.”">>
+   <<linkappend "\__You__: “You've seen it?”">>
+    <<linkappend "\ __Couple__: “We were driving near the TNT area. We looked over at the old North Power plant and saw glowing eyes. We didn't think much of it, until our car stalled. The creature was standing there, probably 7 feet tall. We got our car started again and right as we were about to drive off, I looked over one more time and saw it unfold its wings. They must have been at least 10, maybe 15 feet across. We drove off, only for it to follow, keeping up with us as we drove over 100 miles per hour.”">>
+     <<linkappend "\__You__: “Obviously, since you guys are here still, you were able to get away.”">>
+      __Couple__: “Yup. But the sense of pure evil I felt looking at his eyes will never leave me. It was reported that in that year there were hundreds of sightings. It is now believed that Mothman is a omen of tragedy. It was sighted up until the collapse of the Silver Bridge here, but was also seen before the Freiburg Mine collapse in Germany and the explosion of Chernoyl.”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \

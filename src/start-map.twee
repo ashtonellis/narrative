@@ -46,6 +46,8 @@ After years of listening to legends and myths of creatures scattered across the 
  <area shape="circle" coords=" 785,75,10,10" data-passage="Maine">
 </map>
 
+<<<<script>>Config.addVisitedLinkClass = true;<</script>>>>
+
 :: Credits
 Information found from:
     cryptozoologycryptids.fandom.com
