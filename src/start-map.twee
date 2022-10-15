@@ -29,21 +29,15 @@ After years of listening to legends and myths of creatures scattered across the 
  <area shape="circle" coords="230,345,10,10" data-passage="New Mexico">
  <area shape="circle" coords="390,470,10,10" data-passage="Texas">
  <area shape="circle" coords="410,330,10,10" data-passage="Oklahoma">
- <area shape="circle" coords="365,210,10,10" data-passage="Nebraska">
  <area shape="circle" coords="465,105,10,10" data-passage="Minnesota">
  <area shape="circle" coords="485,275,10,10" data-passage="Missouri">
- <area shape="circle" coords="490,440,10,10" data-passage="Louisiana">
  <area shape="circle" coords="585,355,10,10" data-passage="Alabama">
  <area shape="circle" coords="540,275,10,10" data-passage="Illinois">
  <area shape="circle" coords="575,225,10,10" data-passage="Indiana">
- <area shape="circle" coords="695,505,10,10" data-passage="Florida">
  <area shape="circle" coords="705,325,10,10" data-passage="North Carolina">
  <area shape="circle" coords="640,265,10,10" data-passage="West Virginia">
- <area shape="circle" coords="710,215,10,10" data-passage="Pennsylvania">
  <area shape="circle" coords="740,205,10,10" data-passage="New Jersey">
- <area shape="circle" coords="760,180,10,10" data-passage="Conneticut">
  <area shape="circle" coords="775,165,10,10" data-passage="Massachussetts">
- <area shape="circle" coords=" 785,75,10,10" data-passage="Maine">
 </map>
 
 <<<<script>>Config.addVisitedLinkClass = true;<</script>>>>
