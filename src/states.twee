@@ -1,0 +1,525 @@
+:: Washington
+!Washington - Batsquatch
+<table>
+    <tr>
+     <td><img src='bat.jpg'/></td>
+     <td><p>You decide to take a trip to visit Mount Saint Helens in Washington. This is where you hear the tale of 
+     \the Batsquatch. There have been many sightings, but none as notable as Brian Canfield's in 1994.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Brian">> \
+  <<linkappend "\__Brian__: “\So, you are here to learn the legend of the Batsquatch.”">>
+   <<linkappend "\__You__: “Yeah, I heard you had an encounter when you were driving in 1994.”">>
+    <<linkappend "\ __Brian__: “This is true. I was driving in Pierce county when my truck stalled. I got out to look under the hood when suddenly something landed on the hood of my truck.”">>
+     <<linkappend "\__You__: “The Batsquatch?”">>
+      <<linkappend "\__Brian__: “That what they call it. At the time I just saw a 9 foot tall creature with yellow eyes, blue furr and sharp teeth. Terrifying enough, but then I saw the wings.”">>
+       <<linkappend "\__You__: “Wings? Like, bat wings?”">>
+        __Brian__: “Correct again. As soon as I laid eyes on it, it spread out its wings. Must have been at least 50 feet across. Then it took off. Luckily, that was the last time I had to see this creature”
+       <</linkappend>> \
+      <</linkappend>> \
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+ 
+!!Collect Journal Entry
+ Add //Batsquatch// <<link "journal">><<set $washington = 1>><</link>> entry.
+
+!!Where to Next
+[[California]] [[Nevada]] [[Montana]]
+
+:: California
+!California - Dark Watchers
+<table>
+    <tr>
+     <td><img src='watchers.jfif'/></td>
+     <td><p>Your next stop is the Santa Lucia Mountains in Central California, the home of the Dark Watchers. You 
+     \stumble along some campers, and a hiker informs you about these creatures.</p></td>
+    </tr> \
+  </table> \
+ \
+ <<linkreplace "Talk to Hiker">> \
+  <<linkappend "\__Hiker__: “Although they have so far been harmless, these featureless silhouettes stand motionless, as though they are observing you, making note of every detail.\"">>
+   <<linkappend "\__You__: “Is that why they are called Dark Watchers? Just shadows that stand there and watch?”">>
+    <<linkappend "\ __Hiker__: “Yes. Some have tried to approach them, but as soon as you get near, they disappear as though they are not meant for you to interact with.”">>
+     <<linkappend "\__You__: “Shadow figures that will always remain a mystery.”">>
+      __Hiker__: “That seems to be true. It is purported that they will ignore don’t bother those who mind their own business, although if someone where to finally meet one, who knows if they would live to tell the tale."
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Dark Watchers// <<link "journal">><<set $california = 1>><</link>> entry.
+
+
+!!Where to Next
+[[Washington]] [[Nevada]] [[New Mexico]]
+
+:: Nevada
+!Nevada - Tahoe Tessie
+<table>
+    <tr>
+     <td><img src='tahoe.png'/></td>
+     <td><p>After driving through the desert, you come across a gorgeous lake and stop for a bit of a rest. Once 
+     \you approach Lake Tahoe, right at the border of Nevada and California, you see some diver's gearing up for 
+     \a trip into the lake. You approach one and he gives you the warning of Tahoe Tessie.</p></td>
+    </tr> \
+  </table> \
+ \
+ <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “I wouldn't recommend going into this lake here, if you know what's good for ya.”">>
+   <<linkappend "\__You__: “Why not? What could be hiding in there?”">>
+    <<linkappend "\ __Diver__: “We call her Tahoe Tessie, and she is no small creature. When I saw her, she was a serpent like creature about 60 feet long, with a large humpback and no scales.”">>
+     <<linkappend "\__You__: “Where did you see her?”">>
+      __Diver__: “A buddy and I were diving in the caves out here. When we reached the entrance to one of the largers ones, she shot out past us in a cloud of silt. Once it settled, we saw two giant fin prints left in the cave.”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Tahoe Tessie// <<link "journal">><<set $nevada = 1>><</link>> entry.
+
+!!Where to Next
+[[Washington]] [[California]] [[Colorado]]
+
+:: Montana
+!Montanta - Shunka Warakin
+<table>
+    <tr>
+     <td><img src='shunka.png'/></td>
+     <td><p>While traveling through Montana, you reach Madison River Valley. This is where you meet Lance Foster,
+     \an Ioway Indian that tells you the story of the Shunka Warakin.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Lance">> \
+  <<linkappend "\__Lance__: “This creature as shown up over time under many different names, but my tribe and I call it Shunka Warakin, from it's tendancy to sneak into camps at night and steal our dogs, along with killing our livestock.”">>
+   <<linkappend "\__You__: “Over time? When was it first discovered?”">>
+    <<linkappend "\ __Lance__: “The first account we have of this creature is 1886, when Israel Hutchins shot a killed it and gave it to Joseph Sherwood to taxidermy it. At the time, it was called the Ringodocus and the body was displayed at Joseph's general store and museum, until it went missing.”">>
+     <<linkappend "\__You__: “Missing? Where did it go?”">>
+      <<linkappend "\__Lance__: “No one knows, until it reappered in 2007, shortly after another one of its kind went on a spree.”">>
+       <<linkappend "\__You__: “There's more than one?”">>
+        __Lance__: “That's what people think, although this one went by a different name. From 2005 to 2006, it was called the Creature of McCone County, and killed over 120 livestock animals before being shot and killed again.”
+       <</linkappend>> \
+      <</linkappend>> \
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Shunka Warakin// <<link "journal">><<set $montana = 1>><</link>> entry.
+
+!!Where to Next
+[[Washington]] [[Wyoming]]
+
+:: Wyoming
+!Wyoming - Jackalope
+<table>
+    <tr>
+     <td><img src='jackalope.png'/></td>
+     <td><p></p> Getting tired from your travels, you decide to stop at the La Bonte Hotel in Douglas, Wyoming. This is where 
+ \you meet Roy Ball, the man who hunted and displayed the first Jackalope. He tells the story of this cute, but 
+ \surprisingly dangerous creature.</td>
+    </tr> \
+  </table> \
+ \
+<<linkreplace "Talk to Roy">> \
+ <<linkappend "__Roy__: I see you are eyeing my Jackalope head I mounted. This was no easy feet. This jack rabbit with the horns of an antelope, despite looking like a cuddly rabbit, is actually quite powerful.">>
+  <<linkappend "__You__: How can something so small and cute be that dangerous?">>
+   <<linkappend "__Roy__: This animal, instead of fleeing as most rabbits would, usually chose to face its attackers head on. The antlers are quite sharpand would leave its prey pretty bloody and full of gouges.">>
+    <<linkappend "__You__: Is that why people keep telling me to wear stove pipes over my legs if I go hunting?">>
+     __Roy__ It is quite a good idea, these little creatures are known to mimic human phrases while hiding at the edges of where campers have built their fires.
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Jackalope// <<link "journal">><<set $wyoming = 1>><</link>> entry.
+
+!!Where to Next
+ [[Montana]] [[Colorado]] [[Nebraska]]
+
+:: Colorado
+!Colorado - Slide Rock Bolter
+<table>
+    <tr>
+     <td><img src='sliderock.png'/></td>
+     <td><p>Looking up at the vast mountains of Colorado, you see the many valleys and peaks that span the state.
+     \ In one of the valleys, you run into a lumberjack that warns you of the Slide Rock Bolter.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Lumberjack">> \
+  <<linkappend "\__Lumberjack__: “You best be careful wandering around in these valleys. You don't want to set up camp in one spot for too long in these parts.”">>
+   <<linkappend "\__You__: “Why not? What's going to happen if I do?”">>
+    <<linkappend "\ __Lumberjack__: “The Slide Rock Bolter keeps his eye out for prey down here. If you stay for too long, its only a matter of time before he notices you.”">>
+     <<linkappend "\__You__: “The Slide Rock what?”">>
+      <<linkappend "\__Lumberjack__: “Slide Rock Bolter. He is a worm-like creature withan immense head, small eyes and a giant mouth. He holds onto the crest of the mountain, waiting motionless for days waiting for his prey to arrive.”">>
+       <<linkappend "\__You__: “What happens when he finds his prey?”">>
+        __Lumberjack__: “He releases the hooks on his tail that are holding on to the crest. He then slides down the mountain with his mouth wide open, scooping up his prey on his way down. Then his momentum sends him right up the next mountain where he grabs on again and repeats this waiting for his next group of prey.”
+       <</linkappend>> \
+      <</linkappend>> \
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Slide Rock Bolter// <<link "journal">><<set $colorado = 1>><</link>> entry.
+
+!!Where to Next
+[[Nevada]] [[New Mexico]] [[Wyoming]]
+
+:: Alabama
+!Alabama - White Thang
+<table>
+    <tr>
+     <td><img src='whitethang.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //White Thang// <<link "journal">><<set $alabama = 1>><</link>> entry.
+
+!!Where to Next
+ [[North Carolina]] [[Louisiana]] [[Florida]] 
+
+:: Illinois
+!Illinois - Enfield Horror
+<table>
+    <tr>
+     <td><img src='enfield.png'/></td>
+     <td><p>You walk up to a house in Enfield, Illinois, the door covered in dog-like scratch marks. This is where
+     \ Henry McDaniel lives, the first person to have the disfortune of running into the Enfield Horror. You knock
+     \ on his door, hoping to learn what happened that night in 1973.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Henry">> \
+  <<linkappend "\__Henry__: “What do you want?”">>
+   <<linkappend "\__You__: “I'm here to hear your story of the Enfield Horror. You came face to face with him, didn't you?”">>
+    <<linkappend "\ __Henry__: “Unfortunately, this is true. I heard a scratching at my door, and I opened it expecting to see a cat or a dog, something normal like that. Instead, I was greeted by a creature no more than 4 and a half feet tall, standing on three legs. I slammed the door, got my pistol, and came back to shoot him. I shot 4 times, hitting it at least one of those times, but it just hissed and lept away, clearing the 50 feet from here to the edge of the woods back there in 3 jumps.”">>
+     <<linkappend "\__You__: “Is that what those scratches on your door are from?”">>
+      <<linkappend "\__Henry__: “Yes. I called the police that night and they found the scratch marks on the door, noticing that unlike a dog's mark, it had 6 toes. We also found the creatures tracks, two of its feet were about 4 inches wide, and the third track was smaller.”">>
+       <<linkappend "\__You__: “Have you seen it since?”">>
+      __Henry__: “I have been lucky enough not to, but I also don't look into the woods anymore. It was reported as being seen over by the traintracks back there about a week later.”
+       <</linkappend>> \
+      <</linkappend>> \
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Enfield Horror// <<link "journal">><<set $illinois = 1>><</link>> entry.
+
+!!Where to Next
+ [[Minnesota]] [[Missouri]] [[Indiana]] 
+
+:: Indiana
+!Indiana - Beast of Busco
+<table>
+    <tr>
+     <td><img src='busco.png'/></td>
+     <td><p>Crossing into Indiana, you decide to go to Churubusco. You head out to Lake Fulk, owned by Gale Harris,
+     \ which is home to the Beast of Busco.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Gale">> \
+  <<linkappend "\__Gale__: “I'd be careful down by that lake there. It's not safe with that creature out there.”">>
+   <<linkappend "\__You__: “What creature?”">>
+    <<linkappend "\ __Gale__: “The Beast of Busco. A giant snapping turtle at least 6 feet long and 4 feet wide. It was first seen by Oscar Fulk, the orignal owner of this lake. Then seen again by Ora Blue and Charley Wilson, who guessed that he weighed about 500 pounds.”">>
+     <<linkappend "\__You__: “Have you seen it?”">>
+      __Gale__: “I have, a couple of times actually. I was out there once and was able to get close enough to him on my boat that I could touch his tail, but then he thrashed and capsized my boat. I have made a couple attempts to catch him, but each failed. An old friend of mine, Del, filmed the creature from a tree on the lakeside, but the footage was lost.”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Beast of Busco// <<link "journal">><<set $indiana = 1>><</link>> entry.
+
+!!Where to Next
+ [[Illinois]] [[West Virginia]] 
+
+:: North Carolina
+!North Carolina - Beast of Bladenboro
+<table>
+    <tr>
+     <td><img src='bladenboro.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Resident">> \
+  <<linkappend "\__Resident__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Resident__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Resident__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Beast of Bladenboro// <<link "journal">><<set $carolina = 1>><</link>> entry.
+
+!!Where to Next
+ [[West Virginia]] [[Alabama]] [[Florida]] 
+
+:: Minnesota
+!Minnesota - Wendigo
+<table>
+    <tr>
+     <td><img src='wendigo.png'/></td>
+     <td><p>Hiking through the northern woods of Minnesota, you stumble across a camp of people. One of these campers
+     \ takes it upon himself to warn you of the Wendigo.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Camper">> \
+  <<linkappend "\__Camper__: “Make sure you pay attention out here. If you get a sudden, unseasonable chill or smell something foul, get out of there as soon as you can. Otherwise you'll come face to face with the Wendigo.”">>
+   <<linkappend "\__You__: “Wendigo? What is that?”">>
+    <<linkappend "\ __Camper__: “He is described as a giant human-beast hybrid with antlers or horns, that is emaciated to the point that you can see its bones poking through its traslucent greyish skin. It is thought that he is created from a human that has resorted to cannibalism to survive, then becoming the Wendigo.”">>
+     <<linkappend "\__You__: “Why is it so thin? It can't be that strong if its emaciated.”">>
+      __Camper__: “That is where you are wrong. Yes, this creature is very thin from starvation, but that is because it is the embodiment of gluttony and greed. It grows into proportion to the meal it feeds on, usually humans. Because of this growth, it is never satisfied and always looking for its next victim.”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Wendigo// <<link "journal">><<set $minnesota = 1>><</link>> entry.
+
+!!Where to Next
+ [[Nebraska]] [[Missouri]] [[Illinois]] 
+
+:: Missouri
+!Missouri - Momo
+<table>
+    <tr>
+     <td><img src='momo.png'/></td>
+     <td><p>Wandering around Missouri, you find your way into Louisiana. This is where you meet Richard Allen Murray,
+     \ a city council member who has had a run in with the creature know as Momo, or the Monster of Missouri.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Richard">> \
+  <<linkappend "\__Richard__: “So, you are interested in learning the legend of Momo?”">>
+   <<linkappend "\__You__: “Yeah, I heard that you had a run in with the creature.”">>
+    <<linkappend "\ __Richard__: “That is true. The fire chief and I were driving along the creek bed here when all of the sudden ahead in our headlight was this massive creature stand upright, probably at least 7 feet tall and covered in dark fur.”">>
+     <<linkappend "\__You__: “Are you the only ones who have seen it?”">>
+      __Richard__: “There's a story of these two boys in 1972 that were playing outside when their sister hears them scream from inside. When she goes out to check on them, she saw a dark haired creature with with a pumpkin shaped head and glowing eyes that appeared to be holding a deceased dog.”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Momo// <<link "journal">><<set $missouri = 1>><</link>> entry.
+
+!!Where to Next
+ [[Oklahoma]] [[Minnesota]] [[Illinois]] 
+
+:: Massachussetts
+!Massachussetts - Dover Demon
+<table>
+    <tr>
+     <td><img src='dover.png'/></td>
+     <td><p></p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Diver">> \
+  <<linkappend "\__Diver__: “”">>
+   <<linkappend "\__You__: “”">>
+    <<linkappend "\ __Diver__: “”">>
+     <<linkappend "\__You__: “”">>
+      __Diver__: “”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Dover Demon// <<link "journal">><<set $massachussetts = 1>><</link>> entry.
+
+!!Where to Next
+ [[Conneticut]] [[Maine]] 
+
+:: New Mexico
+!New Mexico - Skin Walker
+<table>
+    <tr>
+     <td><img src='skinwalker.png'/></td>
+     <td><p>While traveling through New Mexico, you run into a Navajo camp. You see some Navajo children sitting 
+     \around a campfire, telling stories. You approach them and ask if they know the tale of the Skin Walker.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Navajo Child">> \
+  <<linkappend "\__Navajo Child__: “There are many stories told about the Skin Walkers. They all share the same idea of a man-like creature with the ability to transform into any animal form.”">>
+   <<linkappend "\__You__: “Any animal?”">>
+    <<linkappend "\ __Navajo Child__: “Pretty much. In the original legend, the creature had to wear the pelt of the animal it wanted to transform into, but later versions say it can transform at will, even being able to steal a human face. But no matter what it chose, it always had human eyes. That's the only way to tell the real animal from the Skin Walker imitation.”">>
+     <<linkappend "\__You__: “So it transforms. What's the big deal?”">>
+      __Navajo Child__: “Well, legend says it feeds off of the victims fear, and is able to read human thoughts. It is often seen running alongside cars on the highways, before turning into the woods and disappearing. It's hard to guess what happens if it catches you, but my guess is you won't live to tell the tale.”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Skin Walker// <<link "journal">><<set $mexico = 1>><</link>> entry.
+
+!!Where to Next
+ [[California]] [[Colorado]] [[Texas]]
+
+:: Texas
+!Texas - Chupacabra
+<table>
+    <tr>
+     <td><img src='chupacabra.png'/></td>
+     <td><p></p> Originating in South America and Puerto Rico, the Chupacabra has been spotted in rural areas 
+\of Texas, where you have made your next stop. While visiting the nearby farmers, you find someone 
+\who tells you their story.</td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Farmer">> \
+   <<linkappend "__Farmer__: These reptile-like creatures with fangs and claws are known to feast on livestock, mainly goast, by draining their blood.">>
+    <<linkappend "__You__: Like a vampire?">>
+     __Farmer__: Correct. They were originally called el vampiro de Moca, or the vampire of Moca, after the small town they were originally found in. They were then called chupacabras which translates to‘goat-sucker’.
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Chupacabra// <<link "journal">><<set $texas = 1>><</link>> entry.
+
+!!Where to Next
+ [[New Mexico]] [[Oklahoma]] [[Louisiana]]
+
+:: Oklahoma
+!Oklahoma - Oklahoma Octopus
+<table>
+    <tr>
+     <td><img src='oklahoma.png'/></td>
+     <td><p>You've heard stories of a freshwater demon haunting the man-made lakes of Oklahoma. You visit the Oologah 
+     \Lake and run into one of the cabin owners, who tells you the tale of the Oklahoma Octopus.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Cabin Owner">> \
+  <<linkappend "\__Cabin Owner__: “Be careful swimming in those waters there. There is a high mortality rate, and a large number of unexplained drownings.”">>
+   <<linkappend "\__You__: “What do you mean 'unexplained'?”">>
+    <<linkappend "\ __Cabin Owner__: “Well, we all have our theories, but the police never believe us.”">>
+     <<linkappend "\__You__: “What do you think it is?”">>
+      __Cabin Owner__: “The Oklahoma Octopus. I've never seen it myself, but people day it is the size of a horse with long tentacles and leathery, reddish-brown skin. It attacks and kills unsuspecting swimmers.”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Oklahoma Octopus// <<link "journal">><<set $oklahoma = 1>><</link>> entry.
+
+!!Where to Next
+ [[Texas]] [[Nebraska]] [[Missouri]] 
+
+:: West Virginia
+!West Virginia - Mothman
+<table>
+    <tr>
+     <td><img src='mothman.png'/></td>
+     <td><p>After hearing the stories of Mothman, you head out to Point Pleasent in West Virginia. You meet a couple
+     \ who has had an encounter with this creature, and they tell you the tale.</p></td>
+    </tr> \
+  </table> \
+ \
+  <<linkreplace "Talk to Couple">> \
+  <<linkappend "\__Couple__: “Avoid driving on these road at night if you can. That's when the Mothman comes out.”">>
+   <<linkappend "\__You__: “You've seen it?”">>
+    <<linkappend "\ __Couple__: “We were driving near the TNT area. We looked over at the old North Power plant and saw glowing eyes. We didn't think much of it, until our car stalled. The creature was standing there, probably 7 feet tall. We got our car started again and right as we were about to drive off, I looked over one more time and saw it unfold its wings. They must have been at least 10, maybe 15 feet across. We drove off, only for it to follow, keeping up with us as we drove over 100 miles per hour.”">>
+     <<linkappend "\__You__: “Obviously, since you guys are here still, you were able to get away.”">>
+      __Couple__: “Yup. But the sense of pure evil I felt looking at his eyes will never leave me. It was reported that in that year there were hundreds of sightings. It is now believed that Mothman is a omen of tragedy. It was sighted up until the collapse of the Silver Bridge here, but was also seen before the Freiburg Mine collapse in Germany and the explosion of Chernoyl.”
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ <</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Mothman// <<link "journal">><<set $virginia = 1>><</link>> entry.
+
+!!Where to Next
+ [[Indiana]] [[North Carolina]] [[Pennsylvania]] 
+
+!!Collect Journal Entry
+ Add //Albatwitch// <<link "journal">><<set $pennsylvania = 1>><</link>> entry.
+
+!!Where to Next
+ [[West Virginia]] [[New Jersey]] [[Conneticut]] 
+
+:: New Jersey
+!New Jersey - Jersey Devil
+<table>
+    <tr>
+     <td><img src='jersey.jpg'/></td>
+     <td><p></p> After hearing the legends of a terrifying creature that inhabits the Pine Barrens, you 
+ \decide to travel to New Jersey. Wandering around the nearby towns, you find a local 
+ \willing to tell you the tale of the Jersey Devil.</td>
+    </tr> \
+  </table> \
+ \
+ <<linkreplace "Talk to Local">> \
+  <<linkappend "__Local__: It all starts back in 1735. Mother Leeds, as she is now known, cursed her child when she found out she was pregnant for the 14th time.">>
+   <<linkappend "__You__: She cursed her own child?">>
+    <<linkappend "__Local__: Yes, she cried out that it would be the devil. On a stormy night, she went into labor and that became true. Although the child was born normal, she soon transformed into a creature with hooves, a goat’s head, bat wings and a forked tail.">>
+     <<linkappend "__You__: And that is what became the Jersey Devil.">>
+      __Local__: Indeed. It then went on to be blamed for livestock killings, reported along with tracks and screams.Legend says it feeds on animals out in the Pine Barrens to this day.
+     <</linkappend>> \
+    <</linkappend>> \
+   <</linkappend>> \
+  <</linkappend>> \
+ 
+<</linkreplace>> \
+
+!!Collect Journal Entry
+ Add //Jersey Devil// <<link "journal">><<set $jersey = 1>><</link>> entry.
+
+!!Where to Next
+ [[Pennsylvania]] [[Conneticut]] 
