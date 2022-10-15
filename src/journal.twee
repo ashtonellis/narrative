@@ -118,3 +118,8 @@ __Location__: Dover, Massachussetts
 __Description__: An unearthly-looking creature about 3 feet tall, with a disproportionatly large head and long thin arms and legs with slender fingers. A plain looking creature, completely hairless with no features on its face, except for glowing eyes, seen as both green or orange.
 __Classification__: Alien
 [[return|Massachussetts]]<</if>> \
+
+<<if $states gte 17>> \
+You have visited all the states on your list. You now return home with your newfound knowledge and choose to publsh 
+\ your findings online.
+<</if>> \
