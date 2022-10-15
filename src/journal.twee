@@ -56,13 +56,6 @@ __Description__: Reptile-like creatures with fangs and claws.
 __Classification__: Animal: Reptile
 [[return|Texas]]<</if>> \
 
-<<if $nebraska is 1>> \
-!!!Alkali Lake Monster
-__Location__: Haysprings, Nebraska
-__Description__: Alligator-esque creature approximately 40 feet long with ahorn between its eyes and nostrils.
-__Classification__: Lake Monster
-[[return|Nebraska]]<</if>> \
-
 <<if $oklahoma is 1>> \
 !!!Oklahoma Octopus
 __Location__: Man-Made Lakes, Oklahoma
@@ -126,13 +119,6 @@ __Description__:
 __Classification__: Sasquatch
 [[return|Alabama]]<</if>> \
 
-<<if $florida is 1>> \
-!!!Skunk Ape
-__Location__:
-__Description__:
-__Classification__: Sasquatch
-[[return|Flordia]]<</if>> \
-
 <<if $jersey is 1>> \
 !!!Jersey Devil
 __Location__: Pine Barrens, New Jersey
@@ -140,30 +126,9 @@ __Description__: Creature with the head of a goat, hooves, bat wings and a forke
 __Classification__: Devil
 [[return|New Jersey]]<</if>> \
 
-<<if $conneticut is 1>> \
-!!!Glawackus
-__Location__:
-__Description__:
-__Classification__: Animal: Feline
-[[return|Conneticut]]<</if>> \
-
-<<if $louisiana is 1>> \
-!!!Rougarou
-__Location__:
-__Description__:
-__Classification__: Animal: Canine
-[[return|Louisiana]]<</if>> \
-
 <<if $massachussetts is 1>> \
 !!!Dover Demon
 __Location__:
 __Description__:
 __Classification__: Alien
 [[return|Massachussetts]]<</if>> \
-
-<<if $maine is 1>> \
-!!!Specter Moose
-__Location__:
-__Description__:
-__Classification__: Animal: Moose
-[[return|Maine]]<</if>> \
