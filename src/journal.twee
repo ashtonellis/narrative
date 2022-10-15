@@ -105,13 +105,6 @@ __Description__: Large, cat-like beast, 3 to 4 feet long and a little under 2 fe
 __Classification__: Animal: Feline
 [[return|North Carolina]]<</if>> \
 
-<<if $alabama is 1>> \
-!!!White Thang
-__Location__: Morgan, Etowad and Jefferson Counties of Alabama
-__Description__: 7 to 8 foot tall creature covered in thick white hair. Sometimes described as a kangaroo with the head of a cat
-__Classification__: Sasquatch
-[[return|Alabama]]<</if>> \
-
 <<if $jersey is 1>> \
 !!!Jersey Devil
 __Location__: Pine Barrens, New Jersey

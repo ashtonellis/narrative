@@ -181,33 +181,6 @@
 !!Where to Next
 [[Nevada]] [[New Mexico]] [[Wyoming]]
 
-:: Alabama
-!Alabama - White Thang
-<table>
-    <tr>
-     <td><img src='whitethang.png'/></td>
-     <td><p></p></td>
-    </tr> \
-  </table> \
- \
-  <<linkreplace "Talk to Diver">> \
-  <<linkappend "\__Diver__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Diver__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Diver__: “”
-     <</linkappend>> \
-    <</linkappend>> \
-   <</linkappend>> \
-  <</linkappend>> \
- <</linkreplace>> \
-
-!!Collect Journal Entry
- Add //White Thang// <<link "journal">><<set $alabama = 1>><</link>> entry.
-
-!!Where to Next
- [[North Carolina]] [[Oklahoma]]
-
 :: Illinois
 !Illinois - Enfield Horror
 <table>
@@ -279,11 +252,11 @@
   </table> \
  \
   <<linkreplace "Talk to Resident">> \
-  <<linkappend "\__Resident__: “”">>
-   <<linkappend "\__You__: “”">>
-    <<linkappend "\ __Resident__: “”">>
-     <<linkappend "\__You__: “”">>
-      __Resident__: “”
+  <<linkappend "\__Resident__: “This creature goes by many names. Vampire Cat, Vampire Beast, but the most common name is Beast of Bladenboro. From what I've heard, its a large cat, about 3 to 4 feet long and 2 feet tall with brown tabby fur, small ears and a long tail.”">>
+   <<linkappend "\__You__: “Have you seen it?”">>
+    <<linkappend "\ __Resident__: “Luckily, no. I've just heard the stories. It started back in 1954, lasting about 10 days. There were reports from Bladenboro that dogs were being found dead, drained of their blood and torn to ribbons. I think across those 10 days, they found more than 6 dogs. In January 1955, a farmer reported having seen the beast attacking his livestock and killing hogs, cows and goats.”">>
+     <<linkappend "\__You__: “Was it ever seen after that?”">>
+      __Resident__: “In 2007 there were livestock killings that were tied to this beast in Lexington, Greensboro and Boliva. In Greensboro and Lexington, over 60 goats were found with their blood drained and their heads crushed. In Bolivia, Bill Robinson found his pitbull dead. He buried him at his farm but the next day the dog had reappeared where he had found it originally. Leon Williams, also from Bolivia, found his pitbull dead 4 days later, covered in blood and missing body parts. Over two weeks, 10 dogs were found dead in similar circumstances.”
      <</linkappend>> \
     <</linkappend>> \
    <</linkappend>> \
@@ -294,7 +267,7 @@
  Add //Beast of Bladenboro// <<link "journal">><<set $carolina = 1>><</link>> entry.
 
 !!Where to Next
- [[West Virginia]] [[Alabama]]
+ [[West Virginia]] [[New Jersey]]
 
 :: Minnesota
 !Minnesota - Wendigo
@@ -463,7 +436,7 @@
  Add //Oklahoma Octopus// <<link "journal">><<set $oklahoma = 1>><</link>> entry.
 
 !!Where to Next
- [[Texas]] [[Alabama]] [[Missouri]] 
+ [[Texas]] [[Missouri]] 
 
 :: West Virginia
 !West Virginia - Mothman
@@ -492,12 +465,6 @@
 
 !!Where to Next
  [[Indiana]] [[North Carolina]] [[New Jersey]] 
-
-!!Collect Journal Entry
- Add //Albatwitch// <<link "journal">><<set $pennsylvania = 1>><</link>> entry.
-
-!!Where to Next
- [[West Virginia]] [[New Jersey]] [[Conneticut]] 
 
 :: New Jersey
 !New Jersey - Jersey Devil

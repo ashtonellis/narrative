@@ -237,13 +237,6 @@ __Description__: Large, cat-like beast, 3 to 4 feet long and a little under 2 fe
 __Classification__: Animal: Feline
 [[return|North Carolina]]&lt;&lt;/if&gt;&gt; \
 
-&lt;&lt;if $alabama is 1&gt;&gt; \
-!!!White Thang
-__Location__: Morgan, Etowad and Jefferson Counties of Alabama
-__Description__: 7 to 8 foot tall creature covered in thick white hair. Sometimes described as a kangaroo with the head of a cat
-__Classification__: Sasquatch
-[[return|Alabama]]&lt;&lt;/if&gt;&gt; \
-
 &lt;&lt;if $jersey is 1&gt;&gt; \
 !!!Jersey Devil
 __Location__: Pine Barrens, New Jersey
@@ -275,7 +268,6 @@ After years of listening to legends and myths of creatures scattered across the 
  &lt;area shape=&quot;circle&quot; coords=&quot;410,330,10,10&quot; data-passage=&quot;Oklahoma&quot;&gt;
  &lt;area shape=&quot;circle&quot; coords=&quot;465,105,10,10&quot; data-passage=&quot;Minnesota&quot;&gt;
  &lt;area shape=&quot;circle&quot; coords=&quot;485,275,10,10&quot; data-passage=&quot;Missouri&quot;&gt;
- &lt;area shape=&quot;circle&quot; coords=&quot;585,355,10,10&quot; data-passage=&quot;Alabama&quot;&gt;
  &lt;area shape=&quot;circle&quot; coords=&quot;540,275,10,10&quot; data-passage=&quot;Illinois&quot;&gt;
  &lt;area shape=&quot;circle&quot; coords=&quot;575,225,10,10&quot; data-passage=&quot;Indiana&quot;&gt;
  &lt;area shape=&quot;circle&quot; coords=&quot;705,325,10,10&quot; data-passage=&quot;North Carolina&quot;&gt;
@@ -456,31 +448,7 @@ Images from:
  Add //Slide Rock Bolter// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $colorado = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
-[[Nevada]] [[New Mexico]] [[Wyoming]]</tw-passagedata><tw-passagedata pid="11" name="Alabama" tags="" position="100,225" size="100,100">!Alabama - White Thang
-&lt;table&gt;
-    &lt;tr&gt;
-     &lt;td&gt;&lt;img src=&#39;whitethang.png&#39;/&gt;&lt;/td&gt;
-     &lt;td&gt;&lt;p&gt;&lt;/p&gt;&lt;/td&gt;
-    &lt;/tr&gt; \
-  &lt;/table&gt; \
- \
-  &lt;&lt;linkreplace &quot;Talk to Diver&quot;&gt;&gt; \
-  &lt;&lt;linkappend &quot;\__Diver__: “”&quot;&gt;&gt;
-   &lt;&lt;linkappend &quot;\__You__: “”&quot;&gt;&gt;
-    &lt;&lt;linkappend &quot;\ __Diver__: “”&quot;&gt;&gt;
-     &lt;&lt;linkappend &quot;\__You__: “”&quot;&gt;&gt;
-      __Diver__: “”
-     &lt;&lt;/linkappend&gt;&gt; \
-    &lt;&lt;/linkappend&gt;&gt; \
-   &lt;&lt;/linkappend&gt;&gt; \
-  &lt;&lt;/linkappend&gt;&gt; \
- &lt;&lt;/linkreplace&gt;&gt; \
-
-!!Collect Journal Entry
- Add //White Thang// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $alabama = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
-
-!!Where to Next
- [[North Carolina]] [[Oklahoma]]</tw-passagedata><tw-passagedata pid="12" name="Illinois" tags="" position="225,225" size="100,100">!Illinois - Enfield Horror
+[[Nevada]] [[New Mexico]] [[Wyoming]]</tw-passagedata><tw-passagedata pid="11" name="Illinois" tags="" position="100,225" size="100,100">!Illinois - Enfield Horror
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;enfield.png&#39;/&gt;&lt;/td&gt;
@@ -510,7 +478,7 @@ Images from:
  Add //Enfield Horror// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $illinois = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[Minnesota]] [[Missouri]] [[Indiana]]</tw-passagedata><tw-passagedata pid="13" name="Indiana" tags="" position="350,225" size="100,100">!Indiana - Beast of Busco
+ [[Minnesota]] [[Missouri]] [[Indiana]]</tw-passagedata><tw-passagedata pid="12" name="Indiana" tags="" position="225,225" size="100,100">!Indiana - Beast of Busco
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;busco.png&#39;/&gt;&lt;/td&gt;
@@ -535,7 +503,7 @@ Images from:
  Add //Beast of Busco// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $indiana = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[Illinois]] [[West Virginia]]</tw-passagedata><tw-passagedata pid="14" name="North Carolina" tags="" position="475,225" size="100,100">!North Carolina - Beast of Bladenboro
+ [[Illinois]] [[West Virginia]]</tw-passagedata><tw-passagedata pid="13" name="North Carolina" tags="" position="350,225" size="100,100">!North Carolina - Beast of Bladenboro
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;bladenboro.png&#39;/&gt;&lt;/td&gt;
@@ -544,11 +512,11 @@ Images from:
   &lt;/table&gt; \
  \
   &lt;&lt;linkreplace &quot;Talk to Resident&quot;&gt;&gt; \
-  &lt;&lt;linkappend &quot;\__Resident__: “”&quot;&gt;&gt;
-   &lt;&lt;linkappend &quot;\__You__: “”&quot;&gt;&gt;
-    &lt;&lt;linkappend &quot;\ __Resident__: “”&quot;&gt;&gt;
-     &lt;&lt;linkappend &quot;\__You__: “”&quot;&gt;&gt;
-      __Resident__: “”
+  &lt;&lt;linkappend &quot;\__Resident__: “This creature goes by many names. Vampire Cat, Vampire Beast, but the most common name is Beast of Bladenboro. From what I&#39;ve heard, its a large cat, about 3 to 4 feet long and 2 feet tall with brown tabby fur, small ears and a long tail.”&quot;&gt;&gt;
+   &lt;&lt;linkappend &quot;\__You__: “Have you seen it?”&quot;&gt;&gt;
+    &lt;&lt;linkappend &quot;\ __Resident__: “Luckily, no. I&#39;ve just heard the stories. It started back in 1954, lasting about 10 days. There were reports from Bladenboro that dogs were being found dead, drained of their blood and torn to ribbons. I think across those 10 days, they found more than 6 dogs. In January 1955, a farmer reported having seen the beast attacking his livestock and killing hogs, cows and goats.”&quot;&gt;&gt;
+     &lt;&lt;linkappend &quot;\__You__: “Was it ever seen after that?”&quot;&gt;&gt;
+      __Resident__: “In 2007 there were livestock killings that were tied to this beast in Lexington, Greensboro and Boliva. In Greensboro and Lexington, over 60 goats were found with their blood drained and their heads crushed. In Bolivia, Bill Robinson found his pitbull dead. He buried him at his farm but the next day the dog had reappeared where he had found it originally. Leon Williams, also from Bolivia, found his pitbull dead 4 days later, covered in blood and missing body parts. Over two weeks, 10 dogs were found dead in similar circumstances.”
      &lt;&lt;/linkappend&gt;&gt; \
     &lt;&lt;/linkappend&gt;&gt; \
    &lt;&lt;/linkappend&gt;&gt; \
@@ -559,7 +527,7 @@ Images from:
  Add //Beast of Bladenboro// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $carolina = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[West Virginia]] [[Alabama]]</tw-passagedata><tw-passagedata pid="15" name="Minnesota" tags="" position="600,225" size="100,100">!Minnesota - Wendigo
+ [[West Virginia]] [[New Jersey]]</tw-passagedata><tw-passagedata pid="14" name="Minnesota" tags="" position="475,225" size="100,100">!Minnesota - Wendigo
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;wendigo.png&#39;/&gt;&lt;/td&gt;
@@ -584,7 +552,7 @@ Images from:
  Add //Wendigo// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $minnesota = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[Montana]] [[Missouri]] [[Illinois]]</tw-passagedata><tw-passagedata pid="16" name="Missouri" tags="" position="725,225" size="100,100">!Missouri - Momo
+ [[Montana]] [[Missouri]] [[Illinois]]</tw-passagedata><tw-passagedata pid="15" name="Missouri" tags="" position="600,225" size="100,100">!Missouri - Momo
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;momo.png&#39;/&gt;&lt;/td&gt;
@@ -609,7 +577,7 @@ Images from:
  Add //Momo// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $missouri = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[Oklahoma]] [[Minnesota]] [[Illinois]]</tw-passagedata><tw-passagedata pid="17" name="Massachussetts" tags="" position="850,225" size="100,100">!Massachussetts - Dover Demon
+ [[Oklahoma]] [[Minnesota]] [[Illinois]]</tw-passagedata><tw-passagedata pid="16" name="Massachussetts" tags="" position="725,225" size="100,100">!Massachussetts - Dover Demon
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;dover.png&#39;/&gt;&lt;/td&gt;
@@ -638,7 +606,7 @@ Images from:
  Add //Dover Demon// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $massachussetts = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[West Virginia]]</tw-passagedata><tw-passagedata pid="18" name="New Mexico" tags="" position="975,225" size="100,100">!New Mexico - Skin Walker
+ [[West Virginia]]</tw-passagedata><tw-passagedata pid="17" name="New Mexico" tags="" position="850,225" size="100,100">!New Mexico - Skin Walker
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;skinwalker.png&#39;/&gt;&lt;/td&gt;
@@ -663,7 +631,7 @@ Images from:
  Add //Skin Walker// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $mexico = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[California]] [[Colorado]] [[Texas]]</tw-passagedata><tw-passagedata pid="19" name="Texas" tags="" position="1100,225" size="100,100">!Texas - Chupacabra
+ [[California]] [[Colorado]] [[Texas]]</tw-passagedata><tw-passagedata pid="18" name="Texas" tags="" position="975,225" size="100,100">!Texas - Chupacabra
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;chupacabra.png&#39;/&gt;&lt;/td&gt;
@@ -685,7 +653,7 @@ Images from:
  Add //Chupacabra// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $texas = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[New Mexico]] [[Oklahoma]]</tw-passagedata><tw-passagedata pid="20" name="Oklahoma" tags="" position="1225,225" size="100,100">!Oklahoma - Oklahoma Octopus
+ [[New Mexico]] [[Oklahoma]]</tw-passagedata><tw-passagedata pid="19" name="Oklahoma" tags="" position="1100,225" size="100,100">!Oklahoma - Oklahoma Octopus
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;oklahoma.png&#39;/&gt;&lt;/td&gt;
@@ -710,7 +678,7 @@ Images from:
  Add //Oklahoma Octopus// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $oklahoma = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[Texas]] [[Alabama]] [[Missouri]]</tw-passagedata><tw-passagedata pid="21" name="West Virginia" tags="" position="100,350" size="100,100">!West Virginia - Mothman
+ [[Texas]] [[Missouri]]</tw-passagedata><tw-passagedata pid="20" name="West Virginia" tags="" position="1225,225" size="100,100">!West Virginia - Mothman
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;mothman.png&#39;/&gt;&lt;/td&gt;
@@ -735,13 +703,7 @@ Images from:
  Add //Mothman// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $virginia = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
 
 !!Where to Next
- [[Indiana]] [[North Carolina]] [[New Jersey]] 
-
-!!Collect Journal Entry
- Add //Albatwitch// &lt;&lt;link &quot;journal&quot;&gt;&gt;&lt;&lt;set $pennsylvania = 1&gt;&gt;&lt;&lt;/link&gt;&gt; entry.
-
-!!Where to Next
- [[West Virginia]] [[New Jersey]] [[Conneticut]]</tw-passagedata><tw-passagedata pid="22" name="New Jersey" tags="" position="225,350" size="100,100">!New Jersey - Jersey Devil
+ [[Indiana]] [[North Carolina]] [[New Jersey]]</tw-passagedata><tw-passagedata pid="21" name="New Jersey" tags="" position="100,350" size="100,100">!New Jersey - Jersey Devil
 &lt;table&gt;
     &lt;tr&gt;
      &lt;td&gt;&lt;img src=&#39;jersey.jpg&#39;/&gt;&lt;/td&gt;
