@@ -25,7 +25,7 @@
  <</linkreplace>> \
  
 !!Collect Journal Entry
- Add //Batsquatch// <<link "journal">><<set $washington = 1>><<set $states + 1>><</link>> entry.
+ Add //Batsquatch// <<linkappend "journal">><<set $washington = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
 [[California]] [[Nevada]] [[Montana]]
@@ -53,7 +53,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Dark Watchers// <<link "journal">><<set $california = 1>><<set $states + 1>><</link>> entry.
+ Add //Dark Watchers// <<linkappend "journal">><<set $california = 1>><<set $states += 1>><</linkappend>> entry.
 
 
 !!Where to Next
@@ -83,7 +83,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Tahoe Tessie// <<link "journal">><<set $nevada = 1>><<set $states + 1>><</link>> entry.
+ Add //Tahoe Tessie// <<linkappend "journal">><<set $nevada = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
 [[Washington]] [[California]] [[Colorado]]
@@ -115,7 +115,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Shunka Warakin// <<link "journal">><<set $montana = 1>><<set $states + 1>><</link>> entry.
+ Add //Shunka Warakin// <<linkappend "journal">><<set $montana = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
 [[Washington]] [[Wyoming]] [[Minnesota]]
@@ -144,7 +144,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Jackalope// <<link "journal">><<set $wyoming = 1>><<set $states + 1>><</link>> entry.
+ Add //Jackalope// <<linkappend "journal">><<set $wyoming = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[Montana]] [[Colorado]]
@@ -176,7 +176,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Slide Rock Bolter// <<link "journal">><<set $colorado = 1>><<set $states + 1>><</link>> entry.
+ Add //Slide Rock Bolter// <<linkappend "journal">><<set $colorado = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
 [[Nevada]] [[New Mexico]] [[Wyoming]]
@@ -209,7 +209,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Enfield Horror// <<link "journal">><<set $illinois = 1>><<set $states + 1>><</link>> entry.
+ Add //Enfield Horror// <<linkappend "journal">><<set $illinois = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[Minnesota]] [[Missouri]] [[Indiana]] 
@@ -237,7 +237,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Beast of Busco// <<link "journal">><<set $indiana = 1>><<set $states + 1>><</link>> entry.
+ Add //Beast of Busco// <<linkappend "journal">><<set $indiana = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[Illinois]] [[West Virginia]] 
@@ -264,7 +264,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Beast of Bladenboro// <<link "journal">><<set $carolina = 1>><<set $states + 1>><</link>> entry.
+ Add //Beast of Bladenboro// <<linkappend "journal">><<set $carolina = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[West Virginia]] [[New Jersey]]
@@ -292,7 +292,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Wendigo// <<link "journal">><<set $minnesota = 1>><<set $states + 1>><</link>> entry.
+ Add //Wendigo// <<linkappend "journal">><<set $minnesota = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[Montana]] [[Missouri]] [[Illinois]] 
@@ -320,7 +320,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Momo// <<link "journal">><<set $missouri = 1>><<set $states + 1>><</link>> entry.
+ Add //Momo// <<linkappend "journal">><<set $missouri = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[Oklahoma]] [[Minnesota]] [[Illinois]] 
@@ -352,7 +352,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Dover Demon// <<link "journal">><<set $massachussetts = 1>><<set $states + 1>><</link>> entry.
+ Add //Dover Demon// <<linkappend "journal">><<set $massachussetts = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[West Virginia]]
@@ -380,7 +380,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Skin Walker// <<link "journal">><<set $mexico = 1>><<set $states + 1>><</link>> entry.
+ Add //Skin Walker// <<linkappend "journal">><<set $mexico = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[California]] [[Colorado]] [[Texas]]
@@ -405,7 +405,7 @@
   <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Chupacabra// <<link "journal">><<set $texas = 1>><<set $states + 1>><</link>> entry.
+ Add //Chupacabra// <<linkappend "journal">><<set $texas = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[New Mexico]] [[Oklahoma]]
@@ -433,7 +433,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Oklahoma Octopus// <<link "journal">><<set $oklahoma = 1>><<set $states + 1>><</link>> entry.
+ Add //Oklahoma Octopus// <<linkappend "journal">><<set $oklahoma = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[Texas]] [[Missouri]] 
@@ -461,7 +461,7 @@
  <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Mothman// <<link "journal">><<set $virginia = 1>><<set $states + 1>><</link>> entry.
+ Add //Mothman// <<linkappend "journal">><<set $virginia = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[Indiana]] [[North Carolina]] [[New Jersey]] 
@@ -491,7 +491,7 @@
 <</linkreplace>> \
 
 !!Collect Journal Entry
- Add //Jersey Devil// <<link "journal">><<set $jersey = 1>><<set $states + 1>><</link>> entry.
+ Add //Jersey Devil// <<linkappend "journal">><<set $jersey = 1>><<set $states += 1>><</linkappend>> entry.
 
 !!Where to Next
  [[West Virginia]] [[Massachussetts]]
