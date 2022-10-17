@@ -1,7 +1,6 @@
 :: journal
 !Cryptid Journal
 
-<<print $states>>
 <<if $states gte 17>>!![[End]]<</if>> \
 
 <<if $washington is 1>> \
